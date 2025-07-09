@@ -1,0 +1,51 @@
+2025-06-09 02:01:33,946 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-06-09 02:01:33,963 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-06-09 02:01:33,964 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-06-09 02:01:33,966 - DEBUG - Número de fotos: 3
+2025-06-09 02:01:33,968 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:01:34,030 - DEBUG - ✅ Usuario saracarceller preparado. user_id: 476165384
+2025-06-09 02:01:34,030 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-06-09 02:01:34,061 - DEBUG - 📦 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-06-09 02:01:34,475 - DEBUG - 📥 extract_posts activado
+2025-06-09 02:01:34,477 - DEBUG - 📥 extract_posts activado
+2025-06-09 02:01:34,479 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:01:34,479 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:01:34,493 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-06-09 02:01:34,494 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-06-09 02:03:13,594 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-06-09 02:03:13,595 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-06-09 02:03:13,595 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-06-09 02:03:13,595 - DEBUG - Número de fotos: 3
+2025-06-09 02:03:13,596 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:03:13,606 - DEBUG - ✅ Usuario saracarceller preparado. user_id: 476165384
+2025-06-09 02:03:13,608 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-06-09 02:03:13,613 - DEBUG - 📦 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-06-09 02:03:13,960 - DEBUG - 📥 extract_posts activado
+2025-06-09 02:03:13,961 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:03:13,962 - DEBUG - 📥 extract_posts activado
+2025-06-09 02:03:13,966 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-06-09 02:03:13,967 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:03:13,971 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-06-09 02:23:57,959 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-06-09 02:23:57,961 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-06-09 02:23:57,961 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-06-09 02:23:57,961 - DEBUG - Número de fotos: 3
+2025-06-09 02:23:57,962 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:23:57,968 - DEBUG - ✅ Usuario saracarceller preparado. user_id: 476165384
+2025-06-09 02:23:57,968 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-06-09 02:23:57,970 - DEBUG - 📦 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-06-09 02:23:58,456 - DEBUG - 📥 extract_posts activado
+2025-06-09 02:23:58,456 - DEBUG - 📥 extract_posts activado
+2025-06-09 02:23:58,457 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:23:58,457 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 02:23:58,464 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-06-09 02:23:58,464 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-06-09 03:08:33,593 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-06-09 03:08:33,595 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-06-09 03:08:33,595 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-06-09 03:08:33,596 - DEBUG - Número de fotos: 3
+2025-06-09 03:08:33,597 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-06-09 03:08:33,608 - DEBUG - ✅ Usuario saracarceller preparado. user_id: 476165384
+2025-06-09 03:08:33,608 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-06-09 03:08:33,613 - DEBUG - 🔍 Generando información detallada de publicaciones...
+2025-06-09 03:08:33,614 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'

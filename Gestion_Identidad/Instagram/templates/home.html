@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion Identidad</title>
+</head>
+<body>
+    <h1>Bienvenido a Gestion Identidad</h1>
+
+    <!-- Formulario para buscar -->
+    <form id="searchForm">
+        <label for="username">Nombre de usuario Instagram:</label>
+        <input type="text" id="username" required>
+        <input type="hidden" id="platform" value="Instagram">
+        <button type="submit">Buscar</button>
+    </form>
+
+    <!-- Pop-up para seleccionar número de fotos -->
+    <div id="photoModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); z-index:9999;">
+        <div style="margin:10% auto; padding:20px; background:white; width:300px; text-align:center;">
+            <h3 id="photoModalTitle">¿Cuántas fotos deseas analizar?</h3>
+            <input id="photoCountInput" type="number" min="1" placeholder="Ej: 5" style="width:80%; padding:5px;" />
+            <br><br>
+            <button onclick="submitPhotoCount()">Analizar</button>
+        </div>
+    </div>
+
+    <!-- Enlace para ver archivo si existe -->
+    <br><br>
+    <a id="resultado-link" href="#" target="_blank" style="display: none;">📁 Ver archivo de resultados</a>
+
+    <!-- Botón para volver al inicio -->
+    <br><br>
+    <button onclick="location.reload()">🔁 Volver al inicio</button>
+
+    <script>
+        let currentUsername = "";
+
+        document.getElementById('searchForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const username = document.getElementById('username').value;
+            const platform = document.getElementById('platform').value;
+
+            fetch('/search/', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    rows: [{
+                        text: username,
+                        selectedOption1: platform
+                    }]
+                })
+            })
+            .then(response => response.json())
+            .then(data => handleSearchResponse(data))
+            .catch(error => alert("Error en búsqueda: " + error));
+        });
+
+
+        function handleSearchResponse(data) {
+            console.log("✅ Entró en handleSearchResponse:", data);  // <-- AÑADE ESTO
+        
+            if (data.status === 'private') {
+                alert(data.message);
+            } else if (data.status === 'success') {
+                currentUsername = data.user_data.user.username;
+                document.getElementById('photoModal').style.display = 'block';
+            } else {
+                alert(data.message);
+            }
+        }
+
+        function submitPhotoCount() {
+            const photoCount = document.getElementById('photoCountInput').value;
+            document.getElementById('photoModal').style.display = 'none';
+
+            fetch('/extract_posts/', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    username: currentUsername,
+                    num_photos: photoCount
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                if (data.status === 'success' || data.status === 'skipped') {
+                    const ruta = `/media/${currentUsername}_${photoCount}/posts.json`;
+                    const link = document.getElementById('resultado-link');
+                    link.href = ruta;
+                    link.style.display = 'inline-block';
+                }
+            })
+            .catch(error => alert("Error al extraer posts: " + error));
+        }
+    </script>
+</body>
+</html>
