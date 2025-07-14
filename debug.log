@@ -1962,3 +1962,39 @@ django.template.exceptions.TemplateDoesNotExist: home.html
 2025-07-07 01:47:36,567 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
 2025-07-07 01:47:36,567 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
 2025-07-07 01:47:36,573 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-07-09 16:46:08,874 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-09 16:46:08,878 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-09 16:46:08,879 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-09 16:46:08,879 - DEBUG - Número de fotos: 3
+2025-07-09 16:46:08,880 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-09 16:46:09,655 - DEBUG - \u2705 Usuario saracarceller preparado. user_id: 476165384
+2025-07-09 16:46:09,665 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-07-09 16:46:09,719 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\full_information_3_posts.json, no se regenera.
+2025-07-09 16:46:09,825 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-07-09 16:46:10,117 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-09 16:46:10,119 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-09 16:46:10,121 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-09 16:46:10,128 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-09 16:46:10,147 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-07-09 16:46:10,148 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\5\user_posts.json
+2025-07-15 00:29:48,516 - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\views.py", line 23, in home
+    return render(request, 'home.html')  # Asegúrate de tener un archivo home.html en tu directorio de plantillas
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+2025-07-15 00:56:03,604 - INFO - C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\post_view.py changed, reloading.
+2025-07-15 00:57:35,090 - INFO - C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\urls.py changed, reloading.
+2025-07-15 00:57:39,093 - INFO - C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\urls.py changed, reloading.
+2025-07-15 01:08:23,922 - INFO - C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\urls.py changed, reloading.
+2025-07-15 01:08:40,790 - WARNING - Not Found: /favicon.ico
+2025-07-15 01:30:29,638 - INFO - C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\post_view.py changed, reloading.
