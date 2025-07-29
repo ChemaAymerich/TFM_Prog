@@ -1,0 +1,59 @@
+2025-07-27 17:40:49,123 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-07-27 17:40:49,125 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-07-27 17:40:49,125 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-27 17:40:49,125 - DEBUG - Número de fotos: 3
+2025-07-27 17:40:49,126 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-27 17:40:49,131 - DEBUG - ✅ Usuario saracarceller preparado. user_id: 476165384
+2025-07-27 17:40:49,132 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-07-27 17:40:49,159 - DEBUG - 📂 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\full_information_3_posts.json, no se regenera.
+2025-07-27 17:40:49,165 - DEBUG - 📦 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-07-27 17:40:50,426 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:40:50,428 - DEBUG - 📥 extract_posts activado
+2025-07-27 17:40:50,431 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:40:50,437 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-27 17:40:50,454 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-27 17:41:24,754 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:24,756 - DEBUG - 📥 extract_posts activado
+2025-07-27 17:41:24,758 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:24,759 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-27 17:41:24,775 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-27 17:41:31,135 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:31,136 - DEBUG - 📥 extract_posts activado
+2025-07-27 17:41:31,148 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-27 17:41:31,150 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:31,159 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-27 17:41:33,240 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:33,241 - DEBUG - 📥 extract_posts activado
+2025-07-27 17:41:33,243 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:33,244 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-27 17:41:33,259 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-27 17:41:56,469 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:56,472 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:56,500 - DEBUG - 📥 extract_posts activado
+2025-07-27 17:41:56,504 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-27 17:41:56,514 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-27 17:41:58,632 - DEBUG - 📥 extract_posts activado
+2025-07-27 17:41:58,637 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:58,638 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-27 17:41:58,639 - DEBUG - Probando numero_fotos:3
+2025-07-27 17:41:58,650 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 14:40:29,539 - DEBUG - 📥 extract_posts activado
+2025-07-29 14:40:29,541 - DEBUG - Probando numero_fotos:3
+2025-07-29 14:40:29,543 - DEBUG - Probando numero_fotos:3
+2025-07-29 14:40:29,555 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 14:40:29,589 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 14:40:32,780 - DEBUG - Probando numero_fotos:3
+2025-07-29 14:40:32,781 - DEBUG - 📥 extract_posts activado
+2025-07-29 14:40:32,782 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 14:40:32,784 - DEBUG - Probando numero_fotos:3
+2025-07-29 14:40:32,797 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 14:40:39,929 - DEBUG - 📥 extract_posts activado
+2025-07-29 14:40:39,931 - DEBUG - Probando numero_fotos:3
+2025-07-29 14:40:39,931 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 14:40:39,933 - DEBUG - Probando numero_fotos:3
+2025-07-29 14:40:39,944 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 14:40:41,383 - DEBUG - Probando numero_fotos:3
+2025-07-29 14:40:41,385 - DEBUG - 📥 extract_posts activado
+2025-07-29 14:40:41,386 - DEBUG - Probando numero_fotos:3
+2025-07-29 14:40:41,392 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 14:40:41,408 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
