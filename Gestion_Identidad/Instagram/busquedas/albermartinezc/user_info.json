@@ -1,0 +1,118 @@
+{
+    "data": {
+        "user": {
+            "ai_agent_owner_username": null,
+            "ai_agent_type": null,
+            "biography": "\ud83c\udf5f\ud83e\udda6",
+            "bio_links": [],
+            "fb_profile_biolink": null,
+            "biography_with_entities": {
+                "raw_text": "\ud83c\udf5f\ud83e\udda6",
+                "entities": []
+            },
+            "blocked_by_viewer": false,
+            "restricted_by_viewer": null,
+            "country_block": false,
+            "eimu_id": "109785007082986",
+            "external_url": null,
+            "external_url_linkshimmed": null,
+            "edge_followed_by": {
+                "count": 1415
+            },
+            "fbid": "17841400339483338",
+            "followed_by_viewer": false,
+            "edge_follow": {
+                "count": 1418
+            },
+            "follows_viewer": false,
+            "full_name": "Alberto Marti\u0301nez",
+            "group_metadata": null,
+            "has_ar_effects": false,
+            "has_clips": true,
+            "has_guides": false,
+            "has_channel": false,
+            "has_blocked_viewer": false,
+            "highlight_reel_count": 0,
+            "has_onboarded_to_text_post_app": false,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": true,
+            "id": "213643316",
+            "is_business_account": false,
+            "is_professional_account": false,
+            "is_supervision_enabled": false,
+            "is_guardian_of_viewer": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_embeds_disabled": true,
+            "is_joined_recently": false,
+            "guardian_id": null,
+            "business_address_json": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "business_category_name": null,
+            "overall_category_name": null,
+            "category_enum": null,
+            "category_name": null,
+            "is_private": true,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "is_regulated_c18": false,
+            "edge_mutual_followed_by": {
+                "count": 0,
+                "edges": []
+            },
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://instagram.fgye1-2.fna.fbcdn.net/v/t51.2885-19/485742212_4083397785216989_1940490299842135890_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fgye1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QFQsSG29i08ruNy4VYUpKAdryMEyJv2ynRNqnmsE8nAa7EBLqdPoR1v7sxxbv_ABD8&_nc_ohc=ERbWrEvB0X0Q7kNvwE6eHfW&_nc_gid=H62z58emdkKn9zXtTkWx9A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQ1hR5EBbeVKTExI7z-Ddpdul4YQcjdedR1nKNgNZc0nA&oe=688EFA18&_nc_sid=8b3546",
+            "profile_pic_url_hd": "https://instagram.fgye1-2.fna.fbcdn.net/v/t51.2885-19/485742212_4083397785216989_1940490299842135890_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fgye1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QFQsSG29i08ruNy4VYUpKAdryMEyJv2ynRNqnmsE8nAa7EBLqdPoR1v7sxxbv_ABD8&_nc_ohc=ERbWrEvB0X0Q7kNvwE6eHfW&_nc_gid=H62z58emdkKn9zXtTkWx9A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfQmLxwKflXAxUvRAnVsWPgdxkPp38qh_QP-LznagS2FOw&oe=688EFA18&_nc_sid=8b3546",
+            "requested_by_viewer": false,
+            "should_show_category": false,
+            "should_show_public_contacts": false,
+            "show_account_transparency_details": true,
+            "show_text_post_app_badge": null,
+            "remove_message_entrypoint": false,
+            "transparency_label": null,
+            "transparency_product": null,
+            "username": "albermartinezc",
+            "pronouns": [],
+            "edge_felix_video_timeline": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 189,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": ""
+                },
+                "edges": []
+            },
+            "edge_saved_media": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_media_collections": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_related_profiles": {
+                "edges": []
+            },
+            "pk_id": "213643316",
+            "strong_id__": "213643316"
+        }
+    },
+    "status": "ok"
+}

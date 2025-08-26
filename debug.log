@@ -2656,3 +2656,520 @@ TypeError: 'NoneType' object is not subscriptable
 2025-07-29 19:13:32,489 - DEBUG - Probando numero_fotos:3
 2025-07-29 19:13:32,489 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
 2025-07-29 19:13:32,499 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 19:14:42,463 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 19:14:42,465 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 19:14:42,466 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 19:14:42,467 - DEBUG - Número de fotos: 3
+2025-07-29 19:14:42,468 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 19:14:42,479 - DEBUG - \u2705 Usuario saracarceller preparado. user_id: 476165384
+2025-07-29 19:14:42,479 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-07-29 19:14:42,482 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\full_information_3_posts.json, no se regenera.
+2025-07-29 19:14:42,523 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-07-29 19:14:43,664 - DEBUG - Probando numero_fotos:3
+2025-07-29 19:14:43,667 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 19:14:43,670 - DEBUG - Probando numero_fotos:3
+2025-07-29 19:14:43,672 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 19:14:43,743 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 19:14:49,405 - WARNING - Not Found: /main.89c006b0d8222e92cb60.hot-update.json
+2025-07-29 19:14:54,645 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 19:14:54,647 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 19:14:54,696 - DEBUG - Probando numero_fotos:3
+2025-07-29 19:14:54,703 - DEBUG - Probando numero_fotos:3
+2025-07-29 19:14:54,721 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 19:15:33,751 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 19:15:33,752 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 19:15:33,752 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 19:15:33,752 - DEBUG - Número de fotos: 3
+2025-07-29 19:15:33,753 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 19:15:33,756 - DEBUG - \u2705 Usuario saracarceller preparado. user_id: 476165384
+2025-07-29 19:15:33,757 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-07-29 19:15:33,778 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\full_information_3_posts.json, no se regenera.
+2025-07-29 19:15:33,797 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-07-29 19:15:34,809 - DEBUG - Probando numero_fotos:3
+2025-07-29 19:15:34,810 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 19:15:34,812 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 19:15:34,814 - DEBUG - Probando numero_fotos:3
+2025-07-29 19:15:34,835 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 21:13:44,200 - DEBUG - Probando numero_fotos:3
+2025-07-29 21:13:44,202 - DEBUG - Probando numero_fotos:3
+2025-07-29 21:13:56,896 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 21:13:56,899 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 21:13:56,900 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 21:13:56,900 - DEBUG - Número de fotos: 3
+2025-07-29 21:13:56,906 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 21:13:56,919 - DEBUG - \u2705 Usuario saracarceller preparado. user_id: 476165384
+2025-07-29 21:13:56,920 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-07-29 21:13:56,950 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\full_information_3_posts.json, no se regenera.
+2025-07-29 21:13:56,957 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-07-29 21:13:58,233 - DEBUG - Probando numero_fotos:3
+2025-07-29 21:13:58,234 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 21:13:58,242 - DEBUG - Probando numero_fotos:3
+2025-07-29 21:13:58,242 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 21:13:58,268 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 21:30:46,114 - DEBUG - Probando numero_fotos:3
+2025-07-29 21:30:59,256 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 21:30:59,258 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 21:30:59,258 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 21:30:59,258 - DEBUG - Número de fotos: 3
+2025-07-29 21:30:59,259 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 21:30:59,264 - DEBUG - \u2705 Usuario saracarceller preparado. user_id: 476165384
+2025-07-29 21:30:59,264 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-07-29 21:30:59,267 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\full_information_3_posts.json, no se regenera.
+2025-07-29 21:30:59,270 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-07-29 21:31:00,517 - DEBUG - Probando numero_fotos:3
+2025-07-29 21:31:00,519 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 21:31:00,520 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 21:31:00,522 - DEBUG - Probando numero_fotos:3
+2025-07-29 21:31:00,552 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 22:25:53,956 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:25:55,785 - WARNING - Not Found: /img/captura5.png
+2025-07-29 22:25:55,790 - WARNING - Not Found: /img/captura2.png
+2025-07-29 22:25:55,793 - WARNING - Not Found: /img/captura3.png
+2025-07-29 22:25:55,796 - WARNING - Not Found: /img/captura6.png
+2025-07-29 22:25:55,799 - WARNING - Not Found: /img/captura4.png
+2025-07-29 22:25:55,803 - WARNING - Not Found: /img/captura1.png
+2025-07-29 22:29:19,158 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:29:19,200 - WARNING - Not Found: /img/1-Instagram_acceso..png
+2025-07-29 22:38:04,612 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 22:38:04,668 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 22:38:04,688 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "saracarceller", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 22:38:04,698 - DEBUG - Número de fotos: 3
+2025-07-29 22:38:04,719 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 22:38:04,730 - DEBUG - \u2705 Usuario saracarceller preparado. user_id: 476165384
+2025-07-29 22:38:04,730 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_posts.json, cargando.
+2025-07-29 22:38:04,736 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\full_information_3_posts.json, no se regenera.
+2025-07-29 22:38:04,740 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de saracarceller con 3 fotos.
+2025-07-29 22:38:05,847 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:38:05,850 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 22:38:05,859 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:38:05,860 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\user_info.json
+2025-07-29 22:38:05,879 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracarceller\3\user_posts.json
+2025-07-29 22:38:08,765 - WARNING - Not Found: /img/2-Instagram_acceso..png
+2025-07-29 22:39:40,131 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:40:19,077 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:40:31,897 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:40:42,174 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:42:09,205 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:42:28,526 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:43:07,212 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:44:50,611 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:45:04,004 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:45:18,930 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:46:33,356 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:47:31,288 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:48:42,073 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:49:03,638 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:53:59,204 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 22:53:59,204 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 22:53:59,205 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "albermartinezc", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 22:53:59,205 - DEBUG - Número de fotos: 3
+2025-07-29 22:53:59,207 - DEBUG - \U0001f195 user_info.json no existe, extrayendo de API
+2025-07-29 22:53:59,209 - DEBUG - \U0001f50d Buscando info del usuario: albermartinezc
+2025-07-29 22:53:59,236 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 1 - Requests: 1
+2025-07-29 22:54:02,293 - DEBUG - \U0001f4be user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\user_info.json
+2025-07-29 22:54:02,300 - DEBUG - \U0001f4be user_info.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\user_info.json
+2025-07-29 22:54:02,301 - DEBUG - \u2705 Usuario albermartinezc preparado. user_id: 213643316
+2025-07-29 22:54:02,301 - DEBUG - \U0001f195 user_posts.json no existe, llamando a get_user_posts
+2025-07-29 22:54:02,301 - DEBUG - \U0001f4c1 Carpeta esperada para posts: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\3
+2025-07-29 22:54:02,302 - DEBUG - \U0001f4f8 Extrayendo 3 fotos para usuario albermartinezc (user_id: 213643316)
+2025-07-29 22:54:02,302 - DEBUG - \U0001f4c1 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\3
+2025-07-29 22:54:02,318 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 0 - Requests: 2
+2025-07-29 22:54:04,244 - DEBUG - \U0001f4be user_posts.json guardado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\3\user_posts.json
+2025-07-29 22:54:04,246 - DEBUG - \U0001f4be user_posts.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\user_posts.json
+2025-07-29 22:54:04,247 - DEBUG - user_posts type: <class 'dict'> keys: ['data', 'extensions', 'status']
+2025-07-29 22:54:04,247 - DEBUG - \U0001f50d Generando información detallada de publicaciones...
+2025-07-29 22:54:04,247 - DEBUG - \U0001f4be Entrando en get_detailed_posts
+2025-07-29 22:54:04,247 - DEBUG - Antes Enumerate.
+2025-07-29 22:54:04,248 - DEBUG - \U0001f4be Detalles completos guardados en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\3\full_information_3_posts.json
+2025-07-29 22:54:04,248 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de albermartinezc con 3 fotos.
+2025-07-29 22:54:06,600 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:54:06,602 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 22:54:06,605 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:54:06,606 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\user_info.json
+2025-07-29 22:54:06,642 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\3\user_posts.json
+2025-07-29 22:54:18,197 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:54:18,199 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 22:54:18,200 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\user_info.json
+2025-07-29 22:54:18,201 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:54:18,208 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\albermartinezc\3\user_posts.json
+2025-07-29 22:54:34,254 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 22:54:34,254 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 22:54:34,254 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "chemacanario", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 22:54:34,255 - DEBUG - Número de fotos: 3
+2025-07-29 22:54:34,256 - DEBUG - \U0001f195 user_info.json no existe, extrayendo de API
+2025-07-29 22:54:34,256 - DEBUG - \U0001f50d Buscando info del usuario: chemacanario
+2025-07-29 22:54:34,271 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 9 - Requests: 1
+2025-07-29 22:54:36,481 - DEBUG - \U0001f4be user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\user_info.json
+2025-07-29 22:54:36,484 - DEBUG - \U0001f4be user_info.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\user_info.json
+2025-07-29 22:54:36,484 - DEBUG - \u2705 Usuario chemacanario preparado. user_id: 573148928
+2025-07-29 22:54:36,485 - DEBUG - \U0001f195 user_posts.json no existe, llamando a get_user_posts
+2025-07-29 22:54:36,485 - DEBUG - \U0001f4c1 Carpeta esperada para posts: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\3
+2025-07-29 22:54:36,485 - DEBUG - \U0001f4f8 Extrayendo 3 fotos para usuario chemacanario (user_id: 573148928)
+2025-07-29 22:54:36,485 - DEBUG - \U0001f4c1 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\3
+2025-07-29 22:54:36,495 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 8 - Requests: 2
+2025-07-29 22:54:37,821 - DEBUG - \U0001f4be user_posts.json guardado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\3\user_posts.json
+2025-07-29 22:54:37,829 - DEBUG - \U0001f4be user_posts.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\user_posts.json
+2025-07-29 22:54:37,830 - DEBUG - user_posts type: <class 'dict'> keys: ['data', 'extensions', 'status']
+2025-07-29 22:54:37,831 - DEBUG - \U0001f50d Generando información detallada de publicaciones...
+2025-07-29 22:54:37,831 - DEBUG - \U0001f4be Entrando en get_detailed_posts
+2025-07-29 22:54:37,832 - DEBUG - Antes Enumerate.
+2025-07-29 22:54:37,834 - DEBUG - \U0001f4be Detalles completos guardados en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\3\full_information_3_posts.json
+2025-07-29 22:54:37,835 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de chemacanario con 3 fotos.
+2025-07-29 22:54:40,257 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:54:40,259 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 22:54:40,261 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\user_info.json
+2025-07-29 22:54:40,263 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:54:40,274 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\3\user_posts.json
+2025-07-29 22:55:45,337 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 22:55:45,337 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 22:55:45,337 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 22:55:45,337 - DEBUG - Número de fotos: 3
+2025-07-29 22:55:45,338 - DEBUG - \U0001f195 user_info.json no existe, extrayendo de API
+2025-07-29 22:55:45,339 - DEBUG - \U0001f50d Buscando info del usuario: sergiamen97
+2025-07-29 22:55:45,350 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 7 - Requests: 1
+2025-07-29 22:55:51,474 - DEBUG - \U0001f4be user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 22:55:51,487 - DEBUG - \U0001f4be user_info.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 22:55:51,487 - DEBUG - \u2705 Usuario sergiamen97 preparado. user_id: 564181243
+2025-07-29 22:55:51,488 - DEBUG - \U0001f195 user_posts.json no existe, llamando a get_user_posts
+2025-07-29 22:55:51,488 - DEBUG - \U0001f4c1 Carpeta esperada para posts: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-07-29 22:55:51,488 - DEBUG - \U0001f4f8 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-07-29 22:55:51,488 - DEBUG - \U0001f4c1 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-07-29 22:55:51,497 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 6 - Requests: 2
+2025-07-29 22:55:53,667 - DEBUG - \U0001f4be user_posts.json guardado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-07-29 22:55:53,687 - DEBUG - \U0001f4be user_posts.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-07-29 22:55:53,688 - DEBUG - user_posts type: <class 'dict'> keys: ['data', 'extensions', 'status']
+2025-07-29 22:55:53,688 - DEBUG - \U0001f50d Generando información detallada de publicaciones...
+2025-07-29 22:55:53,688 - DEBUG - \U0001f4be Entrando en get_detailed_posts
+2025-07-29 22:55:53,688 - DEBUG - Antes Enumerate.
+2025-07-29 22:55:53,688 - DEBUG - Post 0 shortcode: DLnbVPSADMo
+2025-07-29 22:55:53,698 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 5 - Requests: 3
+2025-07-29 22:55:55,510 - DEBUG - \U0001f4e5 Post 1/3 detallado para shortcode DLnbVPSADMo
+2025-07-29 22:55:55,510 - DEBUG - Post 1 shortcode: DK62VgEIcPD
+2025-07-29 22:55:55,518 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 9 - Requests: 1
+2025-07-29 22:55:57,549 - DEBUG - \U0001f4e5 Post 2/3 detallado para shortcode DK62VgEIcPD
+2025-07-29 22:55:57,549 - DEBUG - Post 2 shortcode: DJPkTxhAwMq
+2025-07-29 22:55:57,584 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 8 - Requests: 2
+2025-07-29 22:55:59,558 - DEBUG - \U0001f4e5 Post 3/3 detallado para shortcode DJPkTxhAwMq
+2025-07-29 22:55:59,569 - DEBUG - \U0001f4be Detalles completos guardados en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json
+2025-07-29 22:55:59,571 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-07-29 22:56:08,410 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:56:08,412 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 22:56:08,417 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 22:56:08,419 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:56:08,471 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-07-29 22:58:20,911 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:58:20,912 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 22:58:20,913 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 22:58:20,915 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:58:20,942 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-07-29 22:59:04,944 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:59:04,946 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 22:59:04,947 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 22:59:04,954 - DEBUG - Probando numero_fotos:3
+2025-07-29 22:59:04,961 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-07-29 23:06:41,085 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:06:41,086 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:06:41,087 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "seergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:06:41,087 - DEBUG - Número de fotos: 3
+2025-07-29 23:06:41,089 - DEBUG - \U0001f195 user_info.json no existe, extrayendo de API
+2025-07-29 23:06:41,089 - DEBUG - \U0001f50d Buscando info del usuario: seergiamen97
+2025-07-29 23:06:41,092 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 4 - Requests: 1
+2025-07-29 23:06:43,340 - DEBUG - \U0001f4be user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\seergiamen97\user_info.json
+2025-07-29 23:06:43,345 - DEBUG - \U0001f4be user_info.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\seergiamen97\user_info.json
+2025-07-29 23:07:12,005 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:07:12,005 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:07:12,005 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:07:12,005 - DEBUG - Número de fotos: 3
+2025-07-29 23:07:12,006 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 23:07:12,012 - DEBUG - \u2705 Usuario sergiamen97 preparado. user_id: 564181243
+2025-07-29 23:07:12,012 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-07-29 23:07:12,013 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-07-29 23:07:12,016 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-07-29 23:07:13,370 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:07:13,372 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 23:07:13,374 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:07:13,380 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 23:07:13,388 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-07-29 23:08:44,257 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:08:44,257 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:08:44,258 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:08:44,258 - DEBUG - Número de fotos: 3
+2025-07-29 23:08:44,258 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 23:08:44,267 - DEBUG - \u2705 Usuario sergiamen97 preparado. user_id: 564181243
+2025-07-29 23:08:44,267 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-07-29 23:08:44,269 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-07-29 23:08:44,273 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-07-29 23:08:45,722 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:08:45,725 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 23:08:45,728 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:08:45,728 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 23:08:45,746 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-07-29 23:09:53,108 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:09:53,108 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:09:53,108 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "cr7cristianoronaldo", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:09:53,108 - DEBUG - Número de fotos: 3
+2025-07-29 23:09:53,109 - DEBUG - \U0001f195 user_info.json no existe, extrayendo de API
+2025-07-29 23:09:53,110 - DEBUG - \U0001f50d Buscando info del usuario: cr7cristianoronaldo
+2025-07-29 23:09:53,123 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 3 - Requests: 1
+2025-07-29 23:09:56,668 - DEBUG - \U0001f4be user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\user_info.json
+2025-07-29 23:09:56,687 - DEBUG - \U0001f4be user_info.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\user_info.json
+2025-07-29 23:09:56,687 - DEBUG - \u2705 Usuario cr7cristianoronaldo preparado. user_id: 1421738679
+2025-07-29 23:09:56,687 - DEBUG - \U0001f195 user_posts.json no existe, llamando a get_user_posts
+2025-07-29 23:09:56,688 - DEBUG - \U0001f4c1 Carpeta esperada para posts: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\3
+2025-07-29 23:09:56,688 - DEBUG - \U0001f4f8 Extrayendo 3 fotos para usuario cr7cristianoronaldo (user_id: 1421738679)
+2025-07-29 23:09:56,688 - DEBUG - \U0001f4c1 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\3
+2025-07-29 23:09:56,698 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 2 - Requests: 2
+2025-07-29 23:09:58,570 - DEBUG - \U0001f4be user_posts.json guardado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\3\user_posts.json
+2025-07-29 23:09:58,584 - DEBUG - \U0001f4be user_posts.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\user_posts.json
+2025-07-29 23:09:58,585 - DEBUG - user_posts type: <class 'dict'> keys: ['data', 'extensions', 'status']
+2025-07-29 23:09:58,586 - DEBUG - \U0001f50d Generando información detallada de publicaciones...
+2025-07-29 23:09:58,587 - DEBUG - \U0001f4be Entrando en get_detailed_posts
+2025-07-29 23:09:58,587 - DEBUG - Antes Enumerate.
+2025-07-29 23:09:58,588 - DEBUG - Post 0 shortcode: DMpndpjMwyX
+2025-07-29 23:09:58,614 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 1 - Requests: 3
+2025-07-29 23:10:00,130 - DEBUG - \U0001f4e5 Post 1/3 detallado para shortcode DMpndpjMwyX
+2025-07-29 23:10:00,130 - DEBUG - Post 1 shortcode: DMh3nK_OWRu
+2025-07-29 23:10:00,142 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 7 - Requests: 1
+2025-07-29 23:10:02,559 - DEBUG - \U0001f4e5 Post 2/3 detallado para shortcode DMh3nK_OWRu
+2025-07-29 23:10:02,559 - DEBUG - Post 2 shortcode: DMci5-_uLBw
+2025-07-29 23:10:02,571 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 6 - Requests: 2
+2025-07-29 23:10:04,394 - DEBUG - \U0001f4e5 Post 3/3 detallado para shortcode DMci5-_uLBw
+2025-07-29 23:10:04,398 - DEBUG - \U0001f4be Detalles completos guardados en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\3\full_information_3_posts.json
+2025-07-29 23:10:04,400 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de cr7cristianoronaldo con 3 fotos.
+2025-07-29 23:10:07,011 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:10:07,012 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 23:10:07,022 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:10:07,022 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\user_info.json
+2025-07-29 23:10:07,280 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\3\user_posts.json
+2025-07-29 23:10:09,257 - ERROR - Internal Server Error: /api/instagram-analysis/
+Traceback (most recent call last):
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\instagram_analysis_view.py", line 110, in instagram_analysis
+    edges = post.get('data', {}).get('shortcode_media', {}).get('edge_media_to_parent_comment', {}).get('edges', [])
+AttributeError: 'str' object has no attribute 'get'
+2025-07-29 23:10:09,260 - ERROR - Internal Server Error: /api/instagram-analysis/
+Traceback (most recent call last):
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\instagram_analysis_view.py", line 110, in instagram_analysis
+    edges = post.get('data', {}).get('shortcode_media', {}).get('edge_media_to_parent_comment', {}).get('edges', [])
+AttributeError: 'str' object has no attribute 'get'
+2025-07-29 23:11:11,928 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:11:11,929 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:11:11,929 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "cr7cristianoronaldo", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:11:11,929 - DEBUG - Número de fotos: 3
+2025-07-29 23:11:11,930 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\user_info.json
+2025-07-29 23:11:11,934 - DEBUG - \u2705 Usuario cr7cristianoronaldo preparado. user_id: 1421738679
+2025-07-29 23:11:11,935 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\user_posts.json, cargando.
+2025-07-29 23:11:11,949 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\3\full_information_3_posts.json, no se regenera.
+2025-07-29 23:11:11,952 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de cr7cristianoronaldo con 3 fotos.
+2025-07-29 23:11:14,727 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:11:14,728 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 23:11:14,730 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:11:14,731 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\user_info.json
+2025-07-29 23:11:14,739 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\cr7cristianoronaldo\3\user_posts.json
+2025-07-29 23:11:15,078 - ERROR - Internal Server Error: /api/instagram-analysis/
+Traceback (most recent call last):
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\instagram_analysis_view.py", line 110, in instagram_analysis
+    edges = post.get('data', {}).get('shortcode_media', {}).get('edge_media_to_parent_comment', {}).get('edges', [])
+AttributeError: 'str' object has no attribute 'get'
+2025-07-29 23:11:15,094 - ERROR - Internal Server Error: /api/instagram-analysis/
+Traceback (most recent call last):
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\venv\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\instagram_analysis_view.py", line 110, in instagram_analysis
+    edges = post.get('data', {}).get('shortcode_media', {}).get('edge_media_to_parent_comment', {}).get('edges', [])
+AttributeError: 'str' object has no attribute 'get'
+2025-07-29 23:11:55,061 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:11:55,062 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:11:55,062 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:11:55,062 - DEBUG - Número de fotos: 3
+2025-07-29 23:11:55,062 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 23:11:55,071 - DEBUG - \u2705 Usuario sergiamen97 preparado. user_id: 564181243
+2025-07-29 23:11:55,072 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-07-29 23:11:55,074 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-07-29 23:11:55,078 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-07-29 23:11:56,287 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:11:56,289 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 23:11:56,295 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:11:56,296 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 23:11:56,312 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-07-29 23:15:01,543 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:15:01,543 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:15:01,544 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "anna.ferrod", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:15:01,544 - DEBUG - Número de fotos: 3
+2025-07-29 23:15:01,545 - DEBUG - \U0001f195 user_info.json no existe, extrayendo de API
+2025-07-29 23:15:01,545 - DEBUG - \U0001f50d Buscando info del usuario: anna.ferrod
+2025-07-29 23:15:01,595 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 0 - Requests: 1
+2025-07-29 23:15:04,984 - DEBUG - \U0001f4be user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\user_info.json
+2025-07-29 23:15:04,994 - DEBUG - \U0001f4be user_info.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\user_info.json
+2025-07-29 23:15:04,995 - DEBUG - \u2705 Usuario anna.ferrod preparado. user_id: 275560569
+2025-07-29 23:15:04,995 - DEBUG - \U0001f195 user_posts.json no existe, llamando a get_user_posts
+2025-07-29 23:15:04,995 - DEBUG - \U0001f4c1 Carpeta esperada para posts: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\3
+2025-07-29 23:15:04,995 - DEBUG - \U0001f4f8 Extrayendo 3 fotos para usuario anna.ferrod (user_id: 275560569)
+2025-07-29 23:15:04,995 - DEBUG - \U0001f4c1 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\3
+2025-07-29 23:15:05,004 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 5 - Requests: 1
+2025-07-29 23:15:06,989 - DEBUG - \U0001f4be user_posts.json guardado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\3\user_posts.json
+2025-07-29 23:15:06,995 - DEBUG - \U0001f4be user_posts.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\user_posts.json
+2025-07-29 23:15:06,995 - DEBUG - user_posts type: <class 'dict'> keys: ['data', 'extensions', 'status']
+2025-07-29 23:15:06,996 - DEBUG - \U0001f50d Generando información detallada de publicaciones...
+2025-07-29 23:15:06,996 - DEBUG - \U0001f4be Entrando en get_detailed_posts
+2025-07-29 23:15:06,996 - DEBUG - Antes Enumerate.
+2025-07-29 23:15:06,996 - DEBUG - Post 0 shortcode: DAbOgtUhnTL
+2025-07-29 23:15:07,004 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 4 - Requests: 2
+2025-07-29 23:15:08,788 - DEBUG - \U0001f4e5 Post 1/3 detallado para shortcode DAbOgtUhnTL
+2025-07-29 23:15:08,788 - DEBUG - Post 1 shortcode: DKEzWdriei7
+2025-07-29 23:15:08,818 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 3 - Requests: 3
+2025-07-29 23:15:11,007 - DEBUG - \U0001f4e5 Post 2/3 detallado para shortcode DKEzWdriei7
+2025-07-29 23:15:11,008 - DEBUG - Post 2 shortcode: C-Pflxcixjv
+2025-07-29 23:15:11,039 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 9 - Requests: 1
+2025-07-29 23:15:13,506 - DEBUG - \U0001f4e5 Post 3/3 detallado para shortcode C-Pflxcixjv
+2025-07-29 23:15:13,535 - DEBUG - \U0001f4be Detalles completos guardados en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\3\full_information_3_posts.json
+2025-07-29 23:15:13,540 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de anna.ferrod con 3 fotos.
+2025-07-29 23:15:15,230 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:15:15,230 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 23:15:15,231 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\user_info.json
+2025-07-29 23:15:15,233 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:15:15,312 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\anna.ferrod\3\user_posts.json
+2025-07-29 23:38:03,501 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:38:03,504 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:38:03,506 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:38:03,506 - DEBUG - Número de fotos: 3
+2025-07-29 23:38:03,508 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 23:38:03,520 - DEBUG - \u2705 Usuario sergiamen97 preparado. user_id: 564181243
+2025-07-29 23:38:03,520 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-07-29 23:38:03,523 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-07-29 23:38:03,527 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-07-29 23:38:10,063 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:38:10,065 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 23:38:10,067 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:38:10,068 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-07-29 23:38:10,081 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-07-29 23:39:41,088 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:39:41,089 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:39:41,090 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "saracerrilo4", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:39:41,090 - DEBUG - Número de fotos: 3
+2025-07-29 23:39:41,091 - DEBUG - \U0001f195 user_info.json no existe, extrayendo de API
+2025-07-29 23:39:41,091 - DEBUG - \U0001f50d Buscando info del usuario: saracerrilo4
+2025-07-29 23:39:41,111 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 2 - Requests: 1
+2025-07-29 23:39:42,547 - DEBUG - \U0001f4be user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrilo4\user_info.json
+2025-07-29 23:39:42,548 - ERROR - \u274c Error en search: 'str' object has no attribute 'get'
+2025-07-29 23:40:34,594 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-07-29 23:40:34,594 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-07-29 23:40:34,594 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "saracerrillo4", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-07-29 23:40:34,595 - DEBUG - Número de fotos: 3
+2025-07-29 23:40:34,596 - DEBUG - \U0001f195 user_info.json no existe, extrayendo de API
+2025-07-29 23:40:34,596 - DEBUG - \U0001f50d Buscando info del usuario: saracerrillo4
+2025-07-29 23:40:34,611 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 1 - Requests: 2
+2025-07-29 23:40:37,640 - DEBUG - \U0001f4be user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\user_info.json
+2025-07-29 23:40:37,648 - DEBUG - \U0001f4be user_info.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\user_info.json
+2025-07-29 23:40:37,649 - DEBUG - \u2705 Usuario saracerrillo4 preparado. user_id: 5824049153
+2025-07-29 23:40:37,650 - DEBUG - \U0001f195 user_posts.json no existe, llamando a get_user_posts
+2025-07-29 23:40:37,651 - DEBUG - \U0001f4c1 Carpeta esperada para posts: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\3
+2025-07-29 23:40:37,651 - DEBUG - \U0001f4f8 Extrayendo 3 fotos para usuario saracerrillo4 (user_id: 5824049153)
+2025-07-29 23:40:37,652 - DEBUG - \U0001f4c1 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\3
+2025-07-29 23:40:37,674 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 0 - Requests: 3
+2025-07-29 23:40:39,354 - DEBUG - \U0001f4be user_posts.json guardado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\3\user_posts.json
+2025-07-29 23:40:39,361 - DEBUG - \U0001f4be user_posts.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\user_posts.json
+2025-07-29 23:40:39,362 - DEBUG - user_posts type: <class 'dict'> keys: ['data', 'extensions', 'status']
+2025-07-29 23:40:39,362 - DEBUG - \U0001f50d Generando información detallada de publicaciones...
+2025-07-29 23:40:39,363 - DEBUG - \U0001f4be Entrando en get_detailed_posts
+2025-07-29 23:40:39,363 - DEBUG - Antes Enumerate.
+2025-07-29 23:40:39,366 - DEBUG - \U0001f4be Detalles completos guardados en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\3\full_information_3_posts.json
+2025-07-29 23:40:39,366 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de saracerrillo4 con 3 fotos.
+2025-07-29 23:40:41,652 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:40:41,653 - DEBUG - \U0001f4e5 extract_posts activado
+2025-07-29 23:40:41,654 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\user_info.json
+2025-07-29 23:40:41,656 - DEBUG - Probando numero_fotos:3
+2025-07-29 23:40:41,672 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\3\user_posts.json
+2025-08-04 09:56:27,123 - DEBUG - \U0001f4e5 extract_posts activado
+2025-08-04 09:56:27,116 - DEBUG - Probando numero_fotos:3
+2025-08-04 09:56:27,134 - DEBUG - Probando numero_fotos:3
+2025-08-04 09:56:27,149 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\user_info.json
+2025-08-04 09:56:27,203 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\saracerrillo4\3\user_posts.json
+2025-08-04 10:14:32,642 - DEBUG - \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+2025-08-04 10:14:32,646 - DEBUG - \U0001f3af Endpoint /search activado correctamente
+2025-08-04 10:14:32,648 - DEBUG - \U0001f4e8 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-04 10:14:32,652 - DEBUG - Número de fotos: 3
+2025-08-04 10:14:32,656 - DEBUG - \U0001f4c2 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-04 10:14:32,769 - DEBUG - \u2705 Usuario sergiamen97 preparado. user_id: 564181243
+2025-08-04 10:14:32,770 - DEBUG - \U0001f4c2 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-08-04 10:14:32,797 - DEBUG - \U0001f4c2 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-08-04 10:14:32,827 - DEBUG - \U0001f4e6 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-08-04 10:15:07,865 - DEBUG - Probando numero_fotos:3
+2025-08-04 10:15:07,868 - DEBUG - \U0001f4e5 extract_posts activado
+2025-08-04 10:15:07,870 - DEBUG - Probando numero_fotos:3
+2025-08-04 10:15:07,872 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-04 10:15:07,895 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-08-04 16:23:25,820 - DEBUG - Probando numero_fotos:3
+2025-08-04 16:23:25,825 - DEBUG - \U0001f4e5 extract_posts activado
+2025-08-04 16:23:25,831 - DEBUG - Probando numero_fotos:3
+2025-08-04 16:23:25,837 - DEBUG - \U0001f4c2 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-04 16:23:25,931 - DEBUG - \u2705 user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json

@@ -1,0 +1,118 @@
+{
+    "data": {
+        "user": {
+            "ai_agent_owner_username": null,
+            "ai_agent_type": null,
+            "biography": "En la oficina",
+            "bio_links": [],
+            "fb_profile_biolink": null,
+            "biography_with_entities": {
+                "raw_text": "En la oficina",
+                "entities": []
+            },
+            "blocked_by_viewer": false,
+            "restricted_by_viewer": null,
+            "country_block": false,
+            "eimu_id": "118540709536564",
+            "external_url": null,
+            "external_url_linkshimmed": null,
+            "edge_followed_by": {
+                "count": 626
+            },
+            "fbid": "17841400867848955",
+            "followed_by_viewer": false,
+            "edge_follow": {
+                "count": 812
+            },
+            "follows_viewer": false,
+            "full_name": "Chema",
+            "group_metadata": null,
+            "has_ar_effects": false,
+            "has_clips": true,
+            "has_guides": false,
+            "has_channel": false,
+            "has_blocked_viewer": false,
+            "highlight_reel_count": 0,
+            "has_onboarded_to_text_post_app": false,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": false,
+            "id": "573148928",
+            "is_business_account": false,
+            "is_professional_account": false,
+            "is_supervision_enabled": false,
+            "is_guardian_of_viewer": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_embeds_disabled": true,
+            "is_joined_recently": false,
+            "guardian_id": null,
+            "business_address_json": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "business_category_name": null,
+            "overall_category_name": null,
+            "category_enum": null,
+            "category_name": null,
+            "is_private": true,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "is_regulated_c18": false,
+            "edge_mutual_followed_by": {
+                "count": 0,
+                "edges": []
+            },
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://instagram.fssz12-1.fna.fbcdn.net/v/t51.2885-19/97004293_235681214545279_5267392877301858304_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fssz12-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEvVuWPTKrwTGoUVIymfNKaeNTW1SQ417wFX6Wfzxjrs3MK30yWXcWnBcczAN5bOVQ&_nc_ohc=tOH1ur3zW7EQ7kNvwFCCRu8&_nc_gid=aCm8Pl9zgwnPBI9X4M1HiA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfRKYlKYfvsngwTnOY1pF5o5yslG6ju4iSWUw_XfY0HW_g&oe=688F1492&_nc_sid=8b3546",
+            "profile_pic_url_hd": "https://instagram.fssz12-1.fna.fbcdn.net/v/t51.2885-19/97004293_235681214545279_5267392877301858304_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fssz12-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEvVuWPTKrwTGoUVIymfNKaeNTW1SQ417wFX6Wfzxjrs3MK30yWXcWnBcczAN5bOVQ&_nc_ohc=tOH1ur3zW7EQ7kNvwFCCRu8&_nc_gid=aCm8Pl9zgwnPBI9X4M1HiA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfR9q9jUfxJjiY3BpGp_Q_CDMiPqYej2SsMGVUzLIhySRQ&oe=688F1492&_nc_sid=8b3546",
+            "requested_by_viewer": false,
+            "should_show_category": false,
+            "should_show_public_contacts": false,
+            "show_account_transparency_details": true,
+            "show_text_post_app_badge": null,
+            "remove_message_entrypoint": false,
+            "transparency_label": null,
+            "transparency_product": null,
+            "username": "chemacanario",
+            "pronouns": [],
+            "edge_felix_video_timeline": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 41,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": ""
+                },
+                "edges": []
+            },
+            "edge_saved_media": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_media_collections": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_related_profiles": {
+                "edges": []
+            },
+            "pk_id": "573148928",
+            "strong_id__": "573148928"
+        }
+    },
+    "status": "ok"
+}
