@@ -1,0 +1,84 @@
+{
+    "platform": "LinkedIn",
+    "status": "success",
+    "username": "jorgerrios",
+    "user": {
+        "name": "Jorge Rodriguez Rios",
+        "headline": "Senior Corporate and Investment Banking Consultant at Management Solutions",
+        "location": "Greater Madrid Metropolitan Area",
+        "profile_url": "https://www.linkedin.com/in/jorgerrios"
+    },
+    "experiences": [
+        {
+            "title": "Senior CIB Consultant",
+            "company": "Management Solutions",
+            "location": "Madrid, Community of Madrid, Spain",
+            "description": "Responsibilities:\n\nLeader in a treasury tool replacement project (FO + Risk + Collateral) | Manage tight deadlines and high-pressure moment with clients | Collaborate in commercial proposals | Agile team coordination | Evaluate employees’ performance | Develop of technical and functional project streams\n\n\nAchievements:\n\nTreasury tool replacement implementing Calypso v17 FO + Risk + Collateral module (in production in ONLY 1 YEAR): Highly timing aggressive project to implement Calypso v17 tool for treasury in a main Corporate and Investment Bank in Spain. Managing several streamlines of the project in parallel, handling tool gaps with the vendor, delivering situation details to client, training and mentoring colleagues about functional and technical understanding, etc.\n\nFO (Front Office): Product booking in the system (Fixed Income, Security Finance, Interest Rate Derivatives, Options, Equity Strategies), implementation of pricing tools for several products (Default Probability, Zero Yield Curve, FX Curves, Probability Surfaces, Correlation Matrix, etc), PnL configuration using Markt to Market and Realized & Unrealized methodologies, Taylor real-time PnL configuration.\n\nRisk: Supervision on the FRTB (Fundamental Review of the Trading Book) implementation in Calypso, currently working on the VaR implementation in Calypso system.\n\nCollateral module: Supervision on the implementation of Variation Margin and Initial Margin regulations.\n\nTechnological Environment: Bloomberg-Calypso pricing alignment, Trade integration between Calypso and Back Office tool, custom java code solutions development for Calypso.\n\nMiddle Office: Currently working on booking limits implementation, based on credit rating.",
+            "duration": "Sep 2023 - Present · 2 yrs 1 mo",
+            "start_date": {
+                "year": 2023,
+                "month": "Sep"
+            },
+            "is_current": true,
+            "company_linkedin_url": "https://www.linkedin.com/company/11888/",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFFg8uEgMtPwQ/company-logo_400_400/company-logo_400_400/0/1703944377488/management_solutions_logo?e=1759968000&v=beta&t=RPKUH-QuZhzlv1UGotCRp_Rg1vVocVH02m4VKoyxgQM",
+            "employment_type": "Full-time",
+            "company_id": "11888"
+        },
+        {
+            "title": "CIB Consultant",
+            "company": "Management Solutions",
+            "location": "Madrid, Community of Madrid, Spain",
+            "description": "Responsibilities:\n\nExecution of CIB technology transformation projects | Gathering requirement from different departments (Quantitative, FO, Technology) | Set-up of different financial instruments in the technology platform | Java custom code development | Bank assessment for FO Collateral Management | Train and oversight new junior employees\n\n\nAchievements:\n\nIntegration of Multicurrency Curves for REPO Trading in Calypso Platform: Creation and integration of the multiple configurations needed for multicurrency curve for REPO, defining different curve underlyings (IRS, BasisSwap, Cash, FRA, etc) and assessing data integrity between systems (Calypso – Murex). \n\nAssessment for FO Collateral Management: As-Is + To-Be + Gap project defining the current situation for FO Collateral Management (Variation Margin + Initial Margin), listing Gaps and developing possible solutions. Bridge between different teams of the bank: FO Collateral team, Operation team, technology, etc.\n\nOnboarding of Multi Geographical FO users on Calypso System: Gathering FO Security Finance traders requirements for posterior Calypso configuration. C-204 testing for proper environment integration between technology systems in the bank (Back Office, Reporting, etc). FO users tool training for their daily main duties.",
+            "duration": "May 2021 - Sep 2023 · 2 yrs 5 mos",
+            "start_date": {
+                "year": 2021,
+                "month": "May"
+            },
+            "end_date": {
+                "year": 2023,
+                "month": "Sep"
+            },
+            "is_current": false,
+            "company_linkedin_url": "https://www.linkedin.com/company/11888/",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFFg8uEgMtPwQ/company-logo_400_400/company-logo_400_400/0/1703944377488/management_solutions_logo?e=1759968000&v=beta&t=RPKUH-QuZhzlv1UGotCRp_Rg1vVocVH02m4VKoyxgQM",
+            "employment_type": "Full-time",
+            "company_id": "11888"
+        }
+    ],
+    "educations": [
+        {
+            "school": "Universidad Politécnica de Madrid",
+            "degree": "Máster en Ingeniería de Telecomunicación",
+            "degree_name": "Máster en Ingeniería de Telecomunicación",
+            "duration": "2020 - 2023",
+            "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+            "description": "Full English Course \nTFT: Diseño y adaptación de un sistema tecnológico de front-office para el cierre de operaciones en nuevas divisas",
+            "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+            "start_date": {
+                "year": 2020
+            },
+            "end_date": {
+                "year": 2023
+            },
+            "school_id": "166617"
+        },
+        {
+            "school": "Universidad Pontificia Comillas",
+            "degree": "Master in Business Consulting, Business Administration and Management, General",
+            "degree_name": "Master in Business Consulting",
+            "field_of_study": "Business Administration and Management, General",
+            "school_linkedin_url": "https://www.linkedin.com/company/1007594/",
+            "description": "-  Project management: Scope definition, management methodologies (agile, waterfall), risk management, resources allocation.\n-  Current banking system definition: Business streams, main stakeholders, future expectatives.\nCorporate and Investment Banking: Main areas definition (front/middle/back office, collaterales, risk…).\nFixed income and equity: Definition and pricing (Bonds, Treasury Bills, REPO, Equity, etc).\n-  Derivative products: Definition and pricing (Swap, Option, FRA, CDS, FX strategies, etc).\n-  Market Risk: VaR, Expected Shortfall, Stress Test,  FRTB, EaR.\n-  Credit/Counterparty Risk: CVA, SA-CCR.",
+            "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQE5Lb4a81x5Sw/company-logo_400_400/company-logo_400_400/0/1679050784911/ucomillas_logo?e=1759968000&v=beta&t=zBONScYUM2_pQR6LkohxWhY6hcUpfzU1oahYJSYp1ww",
+            "school_id": "1007594"
+        }
+    ],
+    "sensitive": {
+        "dnis": [],
+        "ibans": [],
+        "cccs": [],
+        "phones": []
+    },
+    "json_file": "C:\\Users\\jm_ay\\Documents\\0-TFM_Programacion\\Proyecto_TFM\\Gestion_Identidad\\Instagram\\views\\..\\..\\Linkedin\\busquedas\\jorgerrios.json"
+}

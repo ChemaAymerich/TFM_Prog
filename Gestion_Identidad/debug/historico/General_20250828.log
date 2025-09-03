@@ -1,0 +1,243 @@
+2025-08-28 16:43:57,490 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 16:43:57,492 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 16:43:57,493 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "", "dropdown2": "Nombre y apellidos", "selectedOption1": "", "selectedOption2": "Nombre y apellidos", "optionsForDropdown2": ["Nombre y apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 16:43:57,493 - DEBUG - 📨 Platform recibido: 
+2025-08-28 16:43:57,494 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 16:45:47,547 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 16:45:47,548 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 16:45:47,549 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-28 16:45:47,549 - DEBUG - 📨 Platform recibido: Instagram
+2025-08-28 16:45:47,550 - DEBUG - 📨 Text recibido: sergiamen97
+2025-08-28 16:45:47,551 - DEBUG - 🌐 Entrando en rama Instagram en search_view.py
+2025-08-28 17:07:24,225 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 17:07:24,225 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 17:07:24,226 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "", "dropdown2": "Nombre y apellidos", "selectedOption1": "", "selectedOption2": "Nombre y apellidos", "optionsForDropdown2": ["Nombre y apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 17:07:24,226 - DEBUG - 📨 Platform recibido: 
+2025-08-28 17:07:24,226 - DEBUG - 📨 Text recibido: sergiamen97
+2025-08-28 17:10:39,243 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 17:10:39,244 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 17:10:39,245 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "", "dropdown2": "Nombre y apellidos", "selectedOption1": "", "selectedOption2": "Nombre y apellidos", "optionsForDropdown2": ["Nombre y apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 17:10:39,245 - ERROR - ❌ Error en search: local variable 'rows' referenced before assignment
+2025-08-28 17:11:29,715 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 17:11:29,717 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 17:11:29,718 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "", "dropdown2": "Nombre y apellidos", "selectedOption1": "", "selectedOption2": "Nombre y apellidos", "optionsForDropdown2": ["Nombre y apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 17:11:29,718 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': '', 'dropdown2': 'Nombre y apellidos', 'selectedOption1': '', 'selectedOption2': 'Nombre y apellidos', 'optionsForDropdown2': ['Nombre y apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 17:11:29,718 - DEBUG - 📨 Platform recibido: 
+2025-08-28 17:11:29,718 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 17:12:11,292 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 17:12:11,293 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 17:12:11,294 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-28 17:12:11,294 - DEBUG - 📨 Rows recibido: [{'text': 'sergiamen97', 'dropdown1': 'Instagram', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Instagram', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-08-28 17:12:11,295 - DEBUG - 📨 Platform recibido: Instagram
+2025-08-28 17:12:11,295 - DEBUG - 📨 Text recibido: sergiamen97
+2025-08-28 17:12:11,296 - DEBUG - 🌐 Entrando en rama Instagram en search_view.py
+2025-08-28 17:18:50,120 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 17:18:50,121 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 17:18:50,122 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre de usuario", "selectedOption1": "Google", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 17:18:50,122 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 17:18:50,122 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 17:18:50,123 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 17:18:50,124 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 17:18:50,125 - ERROR - ❌ Error en search: The `request` argument must be an instance of `django.http.HttpRequest`, not `builtins.type`.
+2025-08-28 17:24:24,540 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 17:24:24,540 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 17:24:24,541 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre de usuario", "selectedOption1": "Google", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 17:24:24,541 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 17:24:24,541 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 17:24:24,541 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 17:24:24,541 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 17:24:24,541 - ERROR - ❌ Error en search: The `request` argument must be an instance of `django.http.HttpRequest`, not `builtins.type`.
+2025-08-28 17:26:22,038 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 17:26:22,042 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 17:26:22,043 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose", "dropdown1": "Google", "dropdown2": "Nombre de usuario", "selectedOption1": "Google", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 17:26:22,043 - DEBUG - 📨 Rows recibido: [{'text': 'Jose', 'dropdown1': 'Google', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 17:26:22,044 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 17:26:22,044 - DEBUG - 📨 Text recibido: Jose
+2025-08-28 17:26:22,049 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 17:26:22,049 - ERROR - ❌ Error en search: The `request` argument must be an instance of `django.http.HttpRequest`, not `builtins.type`.
+2025-08-28 17:32:23,061 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 17:32:23,063 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 17:32:23,064 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 17:32:23,064 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 17:32:23,065 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 17:32:23,065 - DEBUG - 📨 Text recibido: Jose Maria
+2025-08-28 17:32:23,066 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 17:32:23,067 - ERROR - ❌ Error en search: The `request` argument must be an instance of `django.http.HttpRequest`, not `builtins.type`.
+2025-08-28 18:20:59,353 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 18:20:59,356 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 18:20:59,356 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 18:20:59,357 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 18:20:59,357 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 18:20:59,357 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 18:20:59,357 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 19:17:35,712 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 19:17:35,714 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 19:17:35,721 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 19:17:35,722 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 19:17:35,722 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 19:17:35,723 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 19:17:35,723 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 19:18:33,866 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 19:18:33,867 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 19:18:33,868 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 19:18:33,869 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 19:18:33,869 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 19:18:33,870 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 19:18:33,871 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 19:22:18,212 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 19:22:18,213 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 19:22:18,214 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 19:22:18,214 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 19:22:18,214 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 19:22:18,214 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 19:22:18,214 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 19:34:01,965 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 19:34:01,966 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 19:34:01,966 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 19:34:01,966 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 19:34:01,967 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 19:34:01,967 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 19:34:01,967 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 19:37:00,976 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 19:37:00,976 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 19:37:00,977 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 19:37:00,977 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 19:37:00,977 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 19:37:00,977 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 19:37:00,978 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 19:37:09,731 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 19:37:09,732 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 19:37:09,732 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 19:37:09,732 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 19:37:09,732 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 19:37:09,732 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 19:37:09,734 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 19:37:09,734 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 19:37:09,735 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 19:37:09,735 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 19:37:09,735 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 19:37:09,736 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 19:37:09,736 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 19:37:09,738 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:40:34,727 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:40:34,733 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:40:34,735 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 20:40:34,735 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 20:40:34,736 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:40:34,736 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:40:34,737 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:40:38,470 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:40:38,472 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:40:38,473 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:40:38,473 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:40:38,474 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 20:40:38,474 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 20:40:38,475 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 20:40:38,475 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 20:40:38,475 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:40:38,475 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:40:38,476 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:40:38,476 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:40:38,476 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:40:38,477 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:42:24,485 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:42:24,487 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:42:24,489 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}, {"text": "chemacanario", "dropdown1": "Google", "dropdown2": "Nombre de usuario", "selectedOption1": "Google", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}, {"text": "651015274", "dropdown1": "Google", "dropdown2": "N\u00ba Tel\u00e9fono", "selectedOption1": "Google", "selectedOption2": "N\u00ba Tel\u00e9fono", "optionsForDropdown2": ["Nombre/Apellidos", "Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 20:42:24,489 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}, {'text': 'chemacanario', 'dropdown1': 'Google', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}, {'text': '651015274', 'dropdown1': 'Google', 'dropdown2': 'Nº Teléfono', 'selectedOption1': 'Google', 'selectedOption2': 'Nº Teléfono', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nombre de usuario', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 20:42:24,490 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:42:24,491 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:42:24,492 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:42:28,940 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:42:28,940 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:42:28,940 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 20:42:28,941 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 20:42:28,942 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:42:28,942 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:42:28,943 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:42:28,943 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:42:28,943 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 20:42:28,944 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:42:28,944 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 20:42:28,944 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:42:28,945 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:42:28,945 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:49:28,082 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:49:28,082 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:49:28,083 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "651015274", "dropdown1": "Google", "dropdown2": "N\u00ba Tel\u00e9fono", "selectedOption1": "Google", "selectedOption2": "N\u00ba Tel\u00e9fono", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}, {"text": "06598429m", "dropdown1": "Google", "dropdown2": "DNI", "selectedOption1": "Google", "selectedOption2": "DNI", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}, {"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 20:49:28,083 - DEBUG - 📨 Rows recibido: [{'text': '651015274', 'dropdown1': 'Google', 'dropdown2': 'Nº Teléfono', 'selectedOption1': 'Google', 'selectedOption2': 'Nº Teléfono', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}, {'text': '06598429m', 'dropdown1': 'Google', 'dropdown2': 'DNI', 'selectedOption1': 'Google', 'selectedOption2': 'DNI', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}, {'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 20:49:28,083 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:49:28,083 - DEBUG - 📨 Text recibido: 651015274
+2025-08-28 20:49:28,084 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:49:28,408 - ERROR - ❌ Error en search: '651'
+2025-08-28 20:49:55,664 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:49:55,665 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:49:55,666 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 20:49:55,667 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 20:49:55,667 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:49:55,668 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:49:55,668 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:49:58,134 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:49:58,139 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:49:58,141 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:49:58,142 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 20:49:58,142 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 20:49:58,143 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:49:58,143 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:49:58,144 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:49:58,145 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 20:49:58,146 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 20:49:58,146 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:49:58,147 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:49:58,148 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:49:58,149 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:50:19,997 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:50:19,997 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:50:19,998 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "06598429N", "dropdown1": "Google", "dropdown2": "DNI", "selectedOption1": "Google", "selectedOption2": "DNI", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 20:50:19,998 - DEBUG - 📨 Rows recibido: [{'text': '06598429N', 'dropdown1': 'Google', 'dropdown2': 'DNI', 'selectedOption1': 'Google', 'selectedOption2': 'DNI', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 20:50:19,998 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:50:19,998 - DEBUG - 📨 Text recibido: 06598429N
+2025-08-28 20:50:19,999 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:51:30,454 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:51:30,457 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:51:30,458 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}, {"text": "651015274", "dropdown1": "Google", "dropdown2": "N\u00ba Tel\u00e9fono", "selectedOption1": "Google", "selectedOption2": "N\u00ba Tel\u00e9fono", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 20:51:30,458 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}, {'text': '651015274', 'dropdown1': 'Google', 'dropdown2': 'Nº Teléfono', 'selectedOption1': 'Google', 'selectedOption2': 'Nº Teléfono', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 20:51:30,459 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:51:30,459 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:51:30,460 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:51:33,025 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:51:33,025 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:51:33,026 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 20:51:33,026 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 20:51:33,026 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:51:33,027 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:51:33,028 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:51:33,028 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:51:33,028 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:51:33,029 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "numPhotos": 3}]}
+2025-08-28 20:51:33,029 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'numPhotos': 3}]
+2025-08-28 20:51:33,029 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:51:33,029 - DEBUG - 📨 Text recibido: Jose Maria Aymerich Sanchez
+2025-08-28 20:51:33,030 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:52:34,210 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:52:34,211 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:52:34,212 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "651015274", "dropdown1": "Google", "dropdown2": "N\u00ba Tel\u00e9fono", "selectedOption1": "Google", "selectedOption2": "N\u00ba Tel\u00e9fono", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}, {"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 20:52:34,212 - DEBUG - 📨 Rows recibido: [{'text': '651015274', 'dropdown1': 'Google', 'dropdown2': 'Nº Teléfono', 'selectedOption1': 'Google', 'selectedOption2': 'Nº Teléfono', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}, {'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 20:52:34,212 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:52:34,212 - DEBUG - 📨 Text recibido: 651015274
+2025-08-28 20:52:34,213 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:52:34,601 - ERROR - ❌ Error en search: '651'
+2025-08-28 20:53:44,202 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:53:44,203 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:53:44,204 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "651015274", "dropdown1": "Google", "dropdown2": "N\u00ba Tel\u00e9fono", "selectedOption1": "Google", "selectedOption2": "N\u00ba Tel\u00e9fono", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}, {"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-28 20:53:44,205 - DEBUG - 📨 Rows recibido: [{'text': '651015274', 'dropdown1': 'Google', 'dropdown2': 'Nº Teléfono', 'selectedOption1': 'Google', 'selectedOption2': 'Nº Teléfono', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}, {'text': 'sergiamen97', 'dropdown1': 'Instagram', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Instagram', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-08-28 20:53:44,205 - DEBUG - 📨 Platform recibido: Google
+2025-08-28 20:53:44,205 - DEBUG - 📨 Text recibido: 651015274
+2025-08-28 20:53:44,206 - DEBUG - 🌐 Entrando en rama Google en search_view.py
+2025-08-28 20:53:44,477 - ERROR - ❌ Error en search: '651'
+2025-08-28 20:55:32,379 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-28 20:55:32,380 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-28 20:55:32,380 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "651015274", "dropdown1": "Google", "dropdown2": "N\u00ba Tel\u00e9fono", "selectedOption1": "Google", "selectedOption2": "N\u00ba Tel\u00e9fono", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}]}
+2025-08-28 20:55:32,380 - DEBUG - 📨 Rows recibido: [{'text': 'sergiamen97', 'dropdown1': 'Instagram', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Instagram', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}, {'text': '651015274', 'dropdown1': 'Google', 'dropdown2': 'Nº Teléfono', 'selectedOption1': 'Google', 'selectedOption2': 'Nº Teléfono', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI'], 'numPhotos': 3}]
+2025-08-28 20:55:32,380 - DEBUG - 📨 Platform recibido: Instagram
+2025-08-28 20:55:32,380 - DEBUG - 📨 Text recibido: sergiamen97
+2025-08-28 20:55:32,380 - DEBUG - 🌐 Entrando en rama Instagram en search_view.py

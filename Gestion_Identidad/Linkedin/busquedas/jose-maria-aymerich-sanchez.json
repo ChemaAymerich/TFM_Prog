@@ -1,0 +1,52 @@
+{
+    "platform": "LinkedIn",
+    "status": "success",
+    "username": "jose-maria-aymerich-sanchez",
+    "user": {
+        "name": "Jose Maria Aymerich Sanchez",
+        "headline": "Business Consultant en Management Solutions",
+        "location": "Madrid, Community of Madrid, Spain",
+        "profile_url": "https://www.linkedin.com/in/jose-maria-aymerich-sanchez"
+    },
+    "experiences": [],
+    "educations": [
+        {
+            "school": "Universidad Politécnica de Madrid",
+            "degree": "Master Universitario en Ingeniería de Telecomunicación",
+            "degree_name": "Master Universitario en Ingeniería de Telecomunicación",
+            "duration": "2020 - 2022",
+            "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+            "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+            "start_date": {
+                "year": 2020
+            },
+            "end_date": {
+                "year": 2022
+            },
+            "school_id": "166617"
+        },
+        {
+            "school": "Universidad Politécnica de Madrid",
+            "degree": "Grado en Ingeniería, Ingeniería de telecomunicaciones",
+            "degree_name": "Grado en Ingeniería",
+            "field_of_study": "Ingeniería de telecomunicaciones",
+            "duration": "2015 - 2020",
+            "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+            "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+            "start_date": {
+                "year": 2015
+            },
+            "end_date": {
+                "year": 2020
+            },
+            "school_id": "166617"
+        }
+    ],
+    "sensitive": {
+        "dnis": [],
+        "ibans": [],
+        "cccs": [],
+        "phones": []
+    },
+    "json_file": "C:\\Users\\jm_ay\\Documents\\0-TFM_Programacion\\Proyecto_TFM\\Gestion_Identidad\\Instagram\\views\\..\\..\\Linkedin\\busquedas\\jose-maria-aymerich-sanchez.json"
+}

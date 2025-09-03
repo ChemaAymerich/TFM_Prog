@@ -1,0 +1,370 @@
+2025-09-02 12:56:14,356 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 12:56:14,360 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 12:56:14,361 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 12:56:14,362 - DEBUG - 📨 Rows recibido: [{'text': 'xemacanario', 'dropdown1': 'Twitter', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Twitter', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 12:56:14,362 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-02 13:11:46,880 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 13:11:46,883 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 13:11:46,884 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 13:11:46,885 - DEBUG - 📨 Rows recibido: [{'text': 'xemacanario', 'dropdown1': 'Twitter', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Twitter', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 13:11:46,885 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-02 13:13:43,425 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 13:13:43,427 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 13:13:43,428 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Google", "dropdown2": "Nombre de usuario", "selectedOption1": "Google", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "06598429m", "dropdown1": "Google", "dropdown2": "DNI", "selectedOption1": "Google", "selectedOption2": "DNI", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 13:13:43,428 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}, {'text': 'sergiamen97', 'dropdown1': 'Instagram', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Instagram', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}, {'text': 'xemacanario', 'dropdown1': 'Google', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}, {'text': '06598429m', 'dropdown1': 'Google', 'dropdown2': 'DNI', 'selectedOption1': 'Google', 'selectedOption2': 'DNI', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}, {'text': 'xemacanario', 'dropdown1': 'Twitter', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Twitter', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 13:13:43,429 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria Aymerich Sanchez, tipo=Nombre/Apellidos
+2025-09-02 13:13:44,872 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-02 13:13:44,872 - DEBUG - 🌐 Entrando en rama Instagram en search_view.py
+2025-09-02 13:13:44,884 - DEBUG - ▶️ Procesando fila -> platform=Google, text=xemacanario, tipo=Nombre de usuario
+2025-09-02 13:13:45,106 - DEBUG - ▶️ Procesando fila -> platform=Google, text=06598429m, tipo=DNI
+2025-09-02 13:13:46,062 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-02 13:15:31,454 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 13:15:31,457 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 13:15:31,459 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Carlosnieto_97", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 13:15:31,459 - DEBUG - 📨 Rows recibido: [{'text': 'Carlosnieto_97', 'dropdown1': 'Twitter', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Twitter', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}, {'text': 'sergiamen97', 'dropdown1': 'Instagram', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Instagram', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}, {'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}, {'text': 'xemacanario', 'dropdown1': 'Twitter', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Twitter', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 13:15:31,460 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=Carlosnieto_97, tipo=Nombre de usuario
+2025-09-02 13:15:32,049 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-02 13:15:32,049 - DEBUG - 🌐 Entrando en rama Instagram en search_view.py
+2025-09-02 13:15:32,063 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria Aymerich Sanchez, tipo=Nombre/Apellidos
+2025-09-02 13:15:33,443 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-02 18:28:35,116 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 18:28:35,120 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 18:28:35,121 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 18:28:35,121 - DEBUG - 📨 Rows recibido: [{'text': 'xemacanario', 'dropdown1': 'Twitter', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Twitter', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 18:28:35,121 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-02 19:31:24,325 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 19:31:24,338 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 19:31:24,340 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "LinkedIn", "dropdown2": "Nombre de usuario", "selectedOption1": "LinkedIn", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 19:31:24,340 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 19:31:24,340 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=Jose Maria Aymerich Sanchez, tipo=Nombre de usuario
+2025-09-02 19:31:24,340 - DEBUG - 💼 Llamando a LinkedIn con query=Jose Maria Aymerich Sanchez
+2025-09-02 19:31:25,488 - ERROR - ❌ Error en search: object of type 'NoneType' has no len()
+2025-09-02 19:51:24,564 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 19:51:24,571 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 19:51:24,572 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "LinkedIn", "dropdown2": "Nombre de usuario", "selectedOption1": "LinkedIn", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 19:51:24,573 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 19:51:24,573 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=Jose Maria Aymerich Sanchez, tipo=Nombre de usuario
+2025-09-02 19:51:24,574 - DEBUG - 💼 [LinkedIn] Iniciando búsqueda para query=Jose Maria Aymerich Sanchez
+2025-09-02 19:51:24,575 - DEBUG - 📂 [LinkedIn] Ruta de guardado: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\..\..\Linkedin\busquedas\Jose Maria Aymerich Sanchez.json
+2025-09-02 19:51:24,576 - DEBUG - 🌐 [LinkedIn] Llamando a search_people con query=Jose Maria Aymerich Sanchez
+2025-09-02 19:51:24,818 - DEBUG - 🔎 [LinkedIn] Respuesta recibida cruda: {
+  "success": false,
+  "message": "As previously announced, our services have been suspended. Please get in touch with us for more information.",
+  "data": null
+}
+2025-09-02 19:51:24,818 - ERROR - ❌ [LinkedIn] data['data'] no es lista. Valor actual: None
+2025-09-02 20:11:08,481 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 20:11:08,488 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 20:11:08,488 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil", "optionsForDropdown2": ["URL del perfil"], "numPhotos": 3}]}
+2025-09-02 20:11:08,488 - DEBUG - 📨 Rows recibido: [{'text': 'https://es.linkedin.com/in/jose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil', 'optionsForDropdown2': ['URL del perfil'], 'numPhotos': 3}]
+2025-09-02 20:11:08,488 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=URL del perfil
+2025-09-02 20:26:40,153 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 20:26:40,160 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 20:26:40,161 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil", "optionsForDropdown2": ["URL del perfil"], "numPhotos": 3}]}
+2025-09-02 20:26:40,161 - DEBUG - 📨 Rows recibido: [{'text': 'https://es.linkedin.com/in/jose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil', 'optionsForDropdown2': ['URL del perfil'], 'numPhotos': 3}]
+2025-09-02 20:26:40,161 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=URL del perfil
+2025-09-02 20:26:40,162 - DEBUG - 💼 [LinkedIn] Iniciando búsqueda para https://es.linkedin.com/in/jose-maria-aymerich-sanchez (tipo=URL del perfil)
+2025-09-02 20:26:40,163 - DEBUG - 🌐 [LinkedIn] Llamando a get_profile_from_url con https://es.linkedin.com/in/jose-maria-aymerich-sanchez
+2025-09-02 20:26:40,841 - DEBUG - 🔎 [LinkedIn] Respuesta cruda: {
+  "success": false,
+  "message": "As previously announced, our services have been suspended. Please get in touch with us for more information.",
+  "data": null
+}
+2025-09-02 20:26:40,842 - ERROR - ❌ Error en search: 'NoneType' object has no attribute 'get'
+2025-09-02 20:31:31,719 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 20:31:31,725 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 20:31:31,725 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil", "optionsForDropdown2": ["URL del perfil"], "numPhotos": 3}]}
+2025-09-02 20:31:31,725 - DEBUG - 📨 Rows recibido: [{'text': 'https://es.linkedin.com/in/jose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil', 'optionsForDropdown2': ['URL del perfil'], 'numPhotos': 3}]
+2025-09-02 20:31:31,726 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=URL del perfil
+2025-09-02 20:31:31,726 - DEBUG - 💼 [LinkedIn] Iniciando búsqueda para https://es.linkedin.com/in/jose-maria-aymerich-sanchez (tipo=URL del perfil)
+2025-09-02 20:31:31,726 - DEBUG - 🌐 [LinkedIn] Llamando a get_profile_from_url con https://es.linkedin.com/in/jose-maria-aymerich-sanchez
+2025-09-02 20:31:32,000 - DEBUG - 🔎 [LinkedIn] Respuesta cruda: {
+  "success": false,
+  "message": "As previously announced, our services have been suspended. Please get in touch with us for more information.",
+  "data": null
+}
+2025-09-02 20:33:29,677 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 20:33:29,680 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 20:33:29,681 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "ose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil", "optionsForDropdown2": ["URL del perfil"], "numPhotos": 3}]}
+2025-09-02 20:33:29,681 - DEBUG - 📨 Rows recibido: [{'text': 'ose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil', 'optionsForDropdown2': ['URL del perfil'], 'numPhotos': 3}]
+2025-09-02 20:33:29,682 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=ose-maria-aymerich-sanchez, tipo=URL del perfil
+2025-09-02 20:33:29,682 - DEBUG - 💼 [LinkedIn] Iniciando búsqueda para ose-maria-aymerich-sanchez (tipo=URL del perfil)
+2025-09-02 20:33:29,682 - DEBUG - 🌐 [LinkedIn] Llamando a get_profile_from_url con ose-maria-aymerich-sanchez
+2025-09-02 20:33:29,944 - DEBUG - 🔎 [LinkedIn] Respuesta cruda: {
+  "success": false,
+  "message": "As previously announced, our services have been suspended. Please get in touch with us for more information.",
+  "data": null
+}
+2025-09-02 22:32:37,108 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 22:32:37,119 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 22:32:37,120 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil \u00f3 Nombre de usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil \u00f3 Nombre de usuario", "optionsForDropdown2": ["URL del perfil \u00f3 Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 22:32:37,121 - DEBUG - 📨 Rows recibido: [{'text': 'https://es.linkedin.com/in/jose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil ó Nombre de usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil ó Nombre de usuario', 'optionsForDropdown2': ['URL del perfil ó Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 22:32:37,121 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=URL del perfil ó Nombre de usuario
+2025-09-02 22:32:37,121 - DEBUG - 💼 [LinkedIn] Iniciando búsqueda para https://es.linkedin.com/in/jose-maria-aymerich-sanchez (tipo=URL del perfil ó Nombre de usuario)
+2025-09-02 22:36:01,098 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 22:36:01,101 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 22:36:01,101 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil \u00f3 Nombre de usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil \u00f3 Nombre de usuario", "optionsForDropdown2": ["URL del perfil \u00f3 Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 22:36:01,101 - DEBUG - 📨 Rows recibido: [{'text': 'https://es.linkedin.com/in/jose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil ó Nombre de usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil ó Nombre de usuario', 'optionsForDropdown2': ['URL del perfil ó Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 22:36:01,101 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=URL del perfil ó Nombre de usuario
+2025-09-02 22:36:01,102 - DEBUG - 💼 [LinkedIn] Iniciando búsqueda para https://es.linkedin.com/in/jose-maria-aymerich-sanchez (tipo=URL del perfil ó Nombre de usuario)
+2025-09-02 22:36:01,102 - DEBUG - 🌐 [LinkedIn] Llamando a get_profile_from_url con https://es.linkedin.com/in/jose-maria-aymerich-sanchez
+2025-09-02 22:36:04,273 - DEBUG - 🔎 [LinkedIn] Respuesta cruda: {
+  "success": true,
+  "message": "response retrieved successfully",
+  "data": {
+    "basic_info": {
+      "fullname": "Jose Maria Aymerich Sanchez",
+      "first_name": "Jose Maria",
+      "last_name": "Aymerich Sanchez",
+      "headline": "Business Consultant en Management Solutions",
+      "public_identifier": "jose-maria-aymerich-sanchez",
+      "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4D03AQGP_zms8aIYjg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664287193125?e=1759968000&v=beta&t=vqcRWtxyUq9sDpHuapTSZ4b8h1kFuAI6tW0rweqMq5w",
+      "about": "",
+      "location": {
+        "country": "Spain",
+        "city": "Madrid, Community of Madrid",
+        "full": "Madrid, Community of Madrid, Spain",
+        "country_code": "ES"
+      },
+      "creator_hashtags": [],
+      "is_creator": false,
+      "is_influencer": false,
+      "is_premium": false,
+      "created_timestamp": 1589049613241,
+      "show_follower_count": false,
+      "background_picture_url": "https://media.licdn.com/dms/image/v2/C4D16AQH7vooDUpYTPQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1609374707420?e=1759968000&v=beta&t=rk3zjxlFengvkiFAQ-On8MphBjDLpjsC4-oGnkxOS0s",
+      "urn": "ACoAADC5Nv8BRq_-pNepwJoNOif8np2KOQESIec",
+      "follower_count": 336,
+      "connection_count": 335,
+      "current_company": "",
+      "current_company_urn": "",
+      "email": null
+    },
+    "education": [
+      {
+        "school": "Universidad Politécnica de Madrid",
+        "degree": "Master Universitario en Ingeniería de Telecomunicación",
+        "degree_name": "Master Universitario en Ingeniería de Telecomunicación",
+        "duration": "2020 - 2022",
+        "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+        "start_date": {
+          "year": 2020
+        },
+        "end_date": {
+          "year": 2022
+        },
+        "school_id": "166617"
+      },
+      {
+        "school": "Universidad Politécnica de Madrid",
+        "degree": "Grado en Ingeniería, Ingeniería de telecomunicaciones",
+        "degree_name": "Grado en Ingeniería",
+        "field_of_study": "Ingeniería de telecomunicaciones",
+        "duration": "2015 - 2020",
+        "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+        "start_date": {
+          "year": 2015
+        },
+        "end_date": {
+          "year": 2020
+        },
+        "school_id": "166617"
+      }
+    ]
+  }
+}
+2025-09-02 22:36:04,276 - ERROR - ❌ Error en search: local variable 'file_path' referenced before assignment
+2025-09-02 22:41:37,220 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 22:41:37,229 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 22:41:37,230 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil \u00f3 Nombre de usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil \u00f3 Nombre de usuario", "optionsForDropdown2": ["URL del perfil \u00f3 Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 22:41:37,230 - DEBUG - 📨 Rows recibido: [{'text': 'https://es.linkedin.com/in/jose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil ó Nombre de usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil ó Nombre de usuario', 'optionsForDropdown2': ['URL del perfil ó Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 22:41:37,231 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=URL del perfil ó Nombre de usuario
+2025-09-02 22:41:37,231 - DEBUG - 💼 [LinkedIn] Iniciando búsqueda para https://es.linkedin.com/in/jose-maria-aymerich-sanchez (tipo=URL del perfil ó Nombre de usuario)
+2025-09-02 22:41:37,233 - DEBUG - 🌐 [LinkedIn] Llamando a get_profile_from_url con https://es.linkedin.com/in/jose-maria-aymerich-sanchez
+2025-09-02 22:41:39,169 - DEBUG - 🔎 [LinkedIn] Respuesta cruda: {
+  "success": true,
+  "message": "response retrieved successfully",
+  "data": {
+    "basic_info": {
+      "fullname": "Jose Maria Aymerich Sanchez",
+      "first_name": "Jose Maria",
+      "last_name": "Aymerich Sanchez",
+      "headline": "Business Consultant en Management Solutions",
+      "public_identifier": "jose-maria-aymerich-sanchez",
+      "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4D03AQGP_zms8aIYjg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664287193125?e=1759968000&v=beta&t=vqcRWtxyUq9sDpHuapTSZ4b8h1kFuAI6tW0rweqMq5w",
+      "about": "",
+      "location": {
+        "country": "Spain",
+        "city": "Madrid, Community of Madrid",
+        "full": "Madrid, Community of Madrid, Spain",
+        "country_code": "ES"
+      },
+      "creator_hashtags": [],
+      "is_creator": false,
+      "is_influencer": false,
+      "is_premium": false,
+      "created_timestamp": 1589049613241,
+      "show_follower_count": false,
+      "background_picture_url": "https://media.licdn.com/dms/image/v2/C4D16AQH7vooDUpYTPQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1609374707420?e=1759968000&v=beta&t=rk3zjxlFengvkiFAQ-On8MphBjDLpjsC4-oGnkxOS0s",
+      "urn": "ACoAADC5Nv8BRq_-pNepwJoNOif8np2KOQESIec",
+      "follower_count": 336,
+      "connection_count": 335,
+      "current_company": "",
+      "current_company_urn": "",
+      "email": null
+    },
+    "education": [
+      {
+        "school": "Universidad Politécnica de Madrid",
+        "degree": "Master Universitario en Ingeniería de Telecomunicación",
+        "degree_name": "Master Universitario en Ingeniería de Telecomunicación",
+        "duration": "2020 - 2022",
+        "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+        "start_date": {
+          "year": 2020
+        },
+        "end_date": {
+          "year": 2022
+        },
+        "school_id": "166617"
+      },
+      {
+        "school": "Universidad Politécnica de Madrid",
+        "degree": "Grado en Ingeniería, Ingeniería de telecomunicaciones",
+        "degree_name": "Grado en Ingeniería",
+        "field_of_study": "Ingeniería de telecomunicaciones",
+        "duration": "2015 - 2020",
+        "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+        "start_date": {
+          "year": 2015
+        },
+        "end_date": {
+          "year": 2020
+        },
+        "school_id": "166617"
+      }
+    ]
+  }
+}
+2025-09-02 22:41:39,177 - DEBUG - 💾 [LinkedIn] Resultados guardados en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\..\..\Linkedin\busquedas\jose-maria-aymerich-sanchez.json
+2025-09-02 22:43:33,145 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 22:43:33,148 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 22:43:33,149 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil \u00f3 Nombre de usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil \u00f3 Nombre de usuario", "optionsForDropdown2": ["URL del perfil \u00f3 Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 22:43:33,149 - DEBUG - 📨 Rows recibido: [{'text': 'xemacanario', 'dropdown1': 'Twitter', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Twitter', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}, {'text': 'jose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil ó Nombre de usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil ó Nombre de usuario', 'optionsForDropdown2': ['URL del perfil ó Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 22:43:33,150 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-02 22:43:33,162 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=jose-maria-aymerich-sanchez, tipo=URL del perfil ó Nombre de usuario
+2025-09-02 22:43:33,163 - DEBUG - 💼 [LinkedIn] Iniciando búsqueda para jose-maria-aymerich-sanchez (tipo=URL del perfil ó Nombre de usuario)
+2025-09-02 22:43:33,164 - DEBUG - 🌐 [LinkedIn] Llamando a get_profile_from_url con jose-maria-aymerich-sanchez
+2025-09-02 22:43:35,574 - DEBUG - 🔎 [LinkedIn] Respuesta cruda: {
+  "success": true,
+  "message": "response retrieved successfully",
+  "data": {
+    "basic_info": {
+      "fullname": "Jose Maria Aymerich Sanchez",
+      "first_name": "Jose Maria",
+      "last_name": "Aymerich Sanchez",
+      "headline": "Business Consultant en Management Solutions",
+      "public_identifier": "jose-maria-aymerich-sanchez",
+      "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4D03AQGP_zms8aIYjg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664287193125?e=1759968000&v=beta&t=vqcRWtxyUq9sDpHuapTSZ4b8h1kFuAI6tW0rweqMq5w",
+      "about": "",
+      "location": {
+        "country": "Spain",
+        "city": "Madrid, Community of Madrid",
+        "full": "Madrid, Community of Madrid, Spain",
+        "country_code": "ES"
+      },
+      "creator_hashtags": [],
+      "is_creator": false,
+      "is_influencer": false,
+      "is_premium": false,
+      "created_timestamp": 1589049613241,
+      "show_follower_count": false,
+      "background_picture_url": "https://media.licdn.com/dms/image/v2/C4D16AQH7vooDUpYTPQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1609374707420?e=1759968000&v=beta&t=rk3zjxlFengvkiFAQ-On8MphBjDLpjsC4-oGnkxOS0s",
+      "urn": "ACoAADC5Nv8BRq_-pNepwJoNOif8np2KOQESIec",
+      "follower_count": 336,
+      "connection_count": 335,
+      "current_company": "",
+      "current_company_urn": "",
+      "email": null
+    },
+    "education": [
+      {
+        "school": "Universidad Politécnica de Madrid",
+        "degree": "Master Universitario en Ingeniería de Telecomunicación",
+        "degree_name": "Master Universitario en Ingeniería de Telecomunicación",
+        "duration": "2020 - 2022",
+        "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+        "start_date": {
+          "year": 2020
+        },
+        "end_date": {
+          "year": 2022
+        },
+        "school_id": "166617"
+      },
+      {
+        "school": "Universidad Politécnica de Madrid",
+        "degree": "Grado en Ingeniería, Ingeniería de telecomunicaciones",
+        "degree_name": "Grado en Ingeniería",
+        "field_of_study": "Ingeniería de telecomunicaciones",
+        "duration": "2015 - 2020",
+        "school_linkedin_url": "https://www.linkedin.com/company/166617/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQG6juWKWeGadw/company-logo_400_400/B4DZg1z4D9G8AY-/0/1753249448560/universidad_politecnica_de_madrid_logo?e=1759968000&v=beta&t=Sj508aw2NKsmtnIRROfire0rAGUBTToWJA5EGZR9mLM",
+        "start_date": {
+          "year": 2015
+        },
+        "end_date": {
+          "year": 2020
+        },
+        "school_id": "166617"
+      }
+    ]
+  }
+}
+2025-09-02 22:43:35,575 - DEBUG - 💾 [LinkedIn] Resultados guardados en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\..\..\Linkedin\busquedas\jose-maria-aymerich-sanchez.json
+2025-09-02 22:54:52,347 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 22:54:52,349 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 22:54:52,349 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil \u00f3 Nombre de usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil \u00f3 Nombre de usuario", "optionsForDropdown2": ["URL del perfil \u00f3 Nombre de usuario"], "numPhotos": 3}, {"text": "jorgerrios", "dropdown1": "LinkedIn", "dropdown2": "URL del perfil \u00f3 Nombre de usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del perfil \u00f3 Nombre de usuario", "optionsForDropdown2": ["URL del perfil \u00f3 Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 22:54:52,349 - DEBUG - 📨 Rows recibido: [{'text': 'https://es.linkedin.com/in/jose-maria-aymerich-sanchez', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil ó Nombre de usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil ó Nombre de usuario', 'optionsForDropdown2': ['URL del perfil ó Nombre de usuario'], 'numPhotos': 3}, {'text': 'jorgerrios', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del perfil ó Nombre de usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del perfil ó Nombre de usuario', 'optionsForDropdown2': ['URL del perfil ó Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 22:54:52,349 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=URL del perfil ó Nombre de usuario
+2025-09-02 22:54:52,379 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=jorgerrios, tipo=URL del perfil ó Nombre de usuario
+2025-09-02 22:54:55,020 - DEBUG - 💾 [LinkedIn] Resultados guardados en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\views\..\..\Linkedin\busquedas\jorgerrios.json
+2025-09-02 23:00:54,111 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 23:00:54,112 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 23:00:54,113 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 23:00:54,114 - DEBUG - 📨 Rows recibido: [{'text': 'xemacanario', 'dropdown1': 'Twitter', 'dropdown2': 'Nombre de usuario', 'selectedOption1': 'Twitter', 'selectedOption2': 'Nombre de usuario', 'optionsForDropdown2': ['Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 23:00:54,114 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-02 23:01:37,963 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 23:01:37,964 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 23:01:37,965 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "jorgerrios", "dropdown1": "LinkedIn", "dropdown2": "URL del usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del usuario", "optionsForDropdown2": ["URL del usuario"], "numPhotos": 3}]}
+2025-09-02 23:01:37,965 - DEBUG - 📨 Rows recibido: [{'text': 'jorgerrios', 'dropdown1': 'LinkedIn', 'dropdown2': 'URL del usuario', 'selectedOption1': 'LinkedIn', 'selectedOption2': 'URL del usuario', 'optionsForDropdown2': ['URL del usuario'], 'numPhotos': 3}]
+2025-09-02 23:01:37,965 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=jorgerrios, tipo=URL del usuario
+2025-09-02 23:15:15,587 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 23:15:15,592 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 23:15:15,593 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "651015274", "dropdown1": "Google", "dropdown2": "N\u00ba Tel\u00e9fono", "selectedOption1": "Google", "selectedOption2": "N\u00ba Tel\u00e9fono", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "06598429m", "dropdown1": "Google", "dropdown2": "DNI", "selectedOption1": "Google", "selectedOption2": "DNI", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 23:15:15,593 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}, {'text': '651015274', 'dropdown1': 'Google', 'dropdown2': 'Nº Teléfono', 'selectedOption1': 'Google', 'selectedOption2': 'Nº Teléfono', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}, {'text': '06598429m', 'dropdown1': 'Google', 'dropdown2': 'DNI', 'selectedOption1': 'Google', 'selectedOption2': 'DNI', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 23:15:15,593 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria Aymerich Sanchez, tipo=Nombre/Apellidos
+2025-09-02 23:15:16,164 - ERROR - ❌ Error en search: local variable 'find_sensitive' referenced before assignment
+2025-09-02 23:15:37,416 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 23:15:37,417 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 23:15:37,417 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria AYmerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 23:15:37,418 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria AYmerich Sanchez', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 23:15:37,418 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria AYmerich Sanchez, tipo=Nombre/Apellidos
+2025-09-02 23:15:37,820 - ERROR - ❌ Error en search: local variable 'find_sensitive' referenced before assignment
+2025-09-02 23:16:25,087 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 23:16:25,088 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 23:16:25,088 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria AYmerich", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "", "selectedOption1": "Google", "selectedOption2": "", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 23:16:25,089 - DEBUG - 📨 Rows recibido: [{'text': 'Jose Maria AYmerich', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}, {'text': 'Jose Maria Aymerich Sanchez', 'dropdown1': 'Google', 'dropdown2': '', 'selectedOption1': 'Google', 'selectedOption2': '', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 23:16:25,089 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria AYmerich, tipo=Nombre/Apellidos
+2025-09-02 23:16:25,517 - ERROR - ❌ Error en search: local variable 'find_sensitive' referenced before assignment
+2025-09-02 23:18:16,809 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-02 23:18:16,810 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-02 23:18:16,810 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose MARIA ayMERICH sANCHEZ", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}]}
+2025-09-02 23:18:16,810 - DEBUG - 📨 Rows recibido: [{'text': 'Jose MARIA ayMERICH sANCHEZ', 'dropdown1': 'Google', 'dropdown2': 'Nombre/Apellidos', 'selectedOption1': 'Google', 'selectedOption2': 'Nombre/Apellidos', 'optionsForDropdown2': ['Nombre/Apellidos', 'Nº Teléfono', 'Email', 'DNI', 'Nombre de usuario'], 'numPhotos': 3}]
+2025-09-02 23:18:16,810 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose MARIA ayMERICH sANCHEZ, tipo=Nombre/Apellidos
+2025-09-02 23:18:17,073 - ERROR - ❌ Error en search: local variable 'find_sensitive' referenced before assignment

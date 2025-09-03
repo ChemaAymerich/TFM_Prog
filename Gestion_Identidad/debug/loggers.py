@@ -26,3 +26,6 @@ def create_logger(logger_name, file_prefix):
 # Loggers disponibles
 instagram_logger = create_logger("instagram", "Instagram")
 general_logger = create_logger("general", "General")
+google_logger = create_logger("google", "Google")
+twitter_logger = create_logger("twitter", "Twitter")
+linkedin_logger = create_logger("linkedin", "linkedin")

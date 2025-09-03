@@ -1,0 +1,105 @@
+2025-09-01 02:06:50,935 - DEBUG - Número de fotos: 3
+2025-09-01 02:06:50,937 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 02:06:50,948 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 02:06:50,948 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 02:06:50,957 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 02:06:53,816 - DEBUG - 📥 extract_posts activado
+2025-09-01 02:07:22,757 - DEBUG - Número de fotos: 3
+2025-09-01 02:07:22,757 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 02:07:22,762 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 02:07:22,763 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 02:07:22,768 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 02:07:24,488 - DEBUG - Probando numero_fotos:3
+2025-09-01 02:07:24,490 - DEBUG - 📥 extract_posts activado
+2025-09-01 02:07:24,503 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 02:07:24,507 - DEBUG - Probando numero_fotos:3
+2025-09-01 02:07:24,538 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-01 02:27:25,908 - DEBUG - 📥 extract_posts activado
+2025-09-01 02:37:23,553 - DEBUG - Número de fotos: 3
+2025-09-01 02:37:23,555 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 02:37:23,560 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 02:37:23,560 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 02:37:23,565 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 02:37:26,232 - DEBUG - Probando numero_fotos:3
+2025-09-01 02:37:26,252 - DEBUG - 📥 extract_posts activado
+2025-09-01 02:37:26,253 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 02:37:26,261 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-01 02:37:26,275 - DEBUG - Probando numero_fotos:3
+2025-09-01 02:37:44,445 - DEBUG - Probando numero_fotos:3
+2025-09-01 02:37:44,448 - DEBUG - 📥 extract_posts activado
+2025-09-01 02:37:44,454 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 02:37:44,466 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-01 02:37:44,468 - DEBUG - Probando numero_fotos:3
+2025-09-01 02:52:59,117 - DEBUG - 📥 extract_posts activado
+2025-09-01 09:55:54,239 - DEBUG - Número de fotos: 3
+2025-09-01 09:55:54,248 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 09:55:54,271 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 09:55:54,272 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 09:55:54,288 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 09:55:58,803 - DEBUG - 📥 extract_posts activado
+2025-09-01 09:56:10,709 - DEBUG - 📥 extract_posts activado
+2025-09-01 09:56:18,658 - DEBUG - 📥 extract_posts activado
+2025-09-01 10:01:06,001 - DEBUG - Número de fotos: 3
+2025-09-01 10:01:06,002 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:01:06,007 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 10:01:06,008 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 10:01:06,012 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 10:01:07,667 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:01:07,670 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:01:07,680 - DEBUG - 📥 extract_posts activado
+2025-09-01 10:01:07,684 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:01:07,708 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-01 10:01:30,208 - DEBUG - Número de fotos: 3
+2025-09-01 10:01:30,209 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:01:30,214 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 10:01:30,215 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 10:01:30,221 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 10:01:57,839 - DEBUG - Número de fotos: 3
+2025-09-01 10:01:57,840 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:01:57,844 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 10:01:57,844 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 10:01:57,850 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 10:02:02,090 - DEBUG - 📥 extract_posts activado
+2025-09-01 10:13:41,881 - DEBUG - Número de fotos: 3
+2025-09-01 10:13:41,884 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:13:41,897 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 10:13:41,897 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 10:13:41,907 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 10:13:43,277 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:13:43,280 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:14:22,734 - DEBUG - Número de fotos: 3
+2025-09-01 10:14:22,736 - DEBUG - 🆕 user_info.json no existe, llamando a API
+2025-09-01 10:14:22,741 - DEBUG - 🔍 Buscando info del usuario: sergiamne97
+2025-09-01 10:14:22,765 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 7 - Requests: 1
+2025-09-01 10:14:26,876 - DEBUG - 💾 user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamne97\user_info.json
+2025-09-01 10:57:12,276 - DEBUG - Número de fotos: 3
+2025-09-01 10:57:12,283 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:57:12,290 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 10:57:12,290 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 10:57:12,300 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 10:57:13,978 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:57:13,980 - DEBUG - 📥 extract_posts activado
+2025-09-01 10:57:13,981 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:57:13,982 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:57:13,996 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-01 10:58:10,301 - DEBUG - Número de fotos: 3
+2025-09-01 10:58:10,303 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:58:10,317 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 10:58:10,318 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 10:58:10,332 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 10:58:15,028 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:58:15,030 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:59:11,292 - DEBUG - Número de fotos: 3
+2025-09-01 10:59:11,293 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-01 10:59:11,300 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-09-01 10:59:11,301 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json
+2025-09-01 10:59:11,308 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-09-01 10:59:13,080 - DEBUG - Probando numero_fotos:3
+2025-09-01 10:59:13,083 - DEBUG - Probando numero_fotos:3
+2025-09-01 12:34:23,557 - DEBUG - Número de fotos: 3
+2025-09-01 12:34:23,558 - DEBUG - 📂 Archivo user_info.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\user_info.json
+2025-09-01 12:34:23,560 - DEBUG - ✅ Usuario chemacanario preparado. user_id: 573148928
+2025-09-01 12:34:23,560 - DEBUG - 📂 user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\chemacanario\user_posts.json
+2025-09-01 12:34:23,562 - DEBUG - 📦 search finalizado. Enviando datos de chemacanario con 3 fotos.
+2025-09-01 12:34:28,234 - DEBUG - Probando numero_fotos:3
+2025-09-01 12:34:28,236 - DEBUG - Probando numero_fotos:3

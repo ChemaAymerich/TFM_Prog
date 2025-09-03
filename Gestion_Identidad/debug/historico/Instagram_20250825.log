@@ -1,0 +1,84 @@
+2025-08-25 13:36:37,592 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-25 13:36:37,597 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-25 13:36:37,599 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-25 13:36:37,599 - DEBUG - Número de fotos: 3
+2025-08-25 13:36:37,601 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-25 13:36:37,640 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-08-25 13:36:37,641 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-08-25 13:36:37,659 - DEBUG - 📂 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-08-25 13:36:37,679 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-08-25 13:36:44,124 - DEBUG - Probando numero_fotos:3
+2025-08-25 13:36:44,126 - DEBUG - 📥 extract_posts activado
+2025-08-25 13:36:44,128 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-25 13:36:44,130 - DEBUG - Probando numero_fotos:3
+2025-08-25 13:36:44,159 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-08-25 13:36:47,818 - DEBUG - Probando numero_fotos:3
+2025-08-25 13:36:47,820 - DEBUG - 📥 extract_posts activado
+2025-08-25 13:36:47,825 - DEBUG - Probando numero_fotos:3
+2025-08-25 13:36:47,825 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-25 13:36:47,838 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-08-25 17:39:23,379 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-25 17:39:23,381 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-25 17:39:23,382 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergimen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-25 17:39:23,382 - DEBUG - Número de fotos: 3
+2025-08-25 17:39:23,384 - DEBUG - 🆕 user_info.json no existe, extrayendo de API
+2025-08-25 17:39:23,385 - DEBUG - 🔍 Buscando info del usuario: sergimen97
+2025-08-25 17:39:23,406 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 8 - Requests: 1
+2025-08-25 17:39:25,551 - DEBUG - 💾 user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergimen97\user_info.json
+2025-08-25 17:39:25,563 - DEBUG - 💾 user_info.json guardado en disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergimen97\user_info.json
+2025-08-25 17:39:49,105 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-25 17:39:49,105 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-25 17:39:49,106 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-25 17:39:49,106 - DEBUG - Número de fotos: 3
+2025-08-25 17:39:49,107 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-25 17:39:49,134 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-08-25 17:39:49,134 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-08-25 17:39:49,149 - DEBUG - 📂 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-08-25 17:39:49,161 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-08-25 17:39:50,790 - DEBUG - Probando numero_fotos:3
+2025-08-25 17:39:50,792 - DEBUG - 📥 extract_posts activado
+2025-08-25 17:39:50,797 - DEBUG - Probando numero_fotos:3
+2025-08-25 17:39:50,797 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-25 17:39:50,810 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-08-26 10:28:36,554 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-26 10:28:36,557 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-26 10:28:36,559 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-26 10:28:36,560 - DEBUG - Número de fotos: 3
+2025-08-26 10:28:36,562 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-26 10:28:36,588 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-08-26 10:28:36,588 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-08-26 10:28:36,603 - DEBUG - 📂 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-08-26 10:28:36,625 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-08-26 10:28:38,923 - DEBUG - Probando numero_fotos:3
+2025-08-26 10:28:38,930 - DEBUG - 📥 extract_posts activado
+2025-08-26 10:28:38,935 - DEBUG - Probando numero_fotos:3
+2025-08-26 10:28:38,946 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-26 10:28:38,957 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-08-26 17:50:03,869 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-26 17:50:03,872 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-26 17:50:03,873 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-26 17:50:03,873 - DEBUG - Número de fotos: 3
+2025-08-26 17:50:03,875 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-26 17:50:03,906 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-08-26 17:50:03,906 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-08-26 17:50:03,921 - DEBUG - 📂 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-08-26 17:50:03,944 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-08-26 17:50:05,777 - DEBUG - Probando numero_fotos:3
+2025-08-26 17:50:05,795 - DEBUG - 📥 extract_posts activado
+2025-08-26 17:50:05,798 - DEBUG - Probando numero_fotos:3
+2025-08-26 17:50:05,804 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-26 17:50:05,852 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-08-26 17:51:40,228 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-08-26 17:51:40,229 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-08-26 17:51:40,229 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Opci\u00f3n 1", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}]}
+2025-08-26 17:51:40,229 - DEBUG - Número de fotos: 3
+2025-08-26 17:51:40,230 - DEBUG - 📂 Archivo user_info.json ya existe, cargando desde disco: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-26 17:51:40,236 - DEBUG - ✅ Usuario sergiamen97 preparado. user_id: 564181243
+2025-08-26 17:51:40,236 - DEBUG - 📂 Archivo user_posts.json ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_posts.json, cargando.
+2025-08-26 17:51:40,239 - DEBUG - 📂 full_information ya existe: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json, no se regenera.
+2025-08-26 17:51:40,244 - DEBUG - 📦 search finalizado. Enviando datos de sergiamen97 con 3 fotos.
+2025-08-26 17:51:42,044 - DEBUG - Probando numero_fotos:3
+2025-08-26 17:51:42,046 - DEBUG - 📥 extract_posts activado
+2025-08-26 17:51:42,048 - DEBUG - Probando numero_fotos:3
+2025-08-26 17:51:42,055 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-08-26 17:51:42,067 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json

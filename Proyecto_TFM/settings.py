@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
+import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -139,3 +140,15 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+#GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyDxrHKy6H5rQ05OHHOcCYkfwcM5jk8FBZ0")
+#GOOGLE_CX = os.getenv("GOOGLE_CX", "2367803a6efad440a")
+
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyDQgxEdzBQu7JfN6SYUr-jtW56fiwktSI4")
+GOOGLE_CX = os.getenv("GOOGLE_CX", "644c8a6077e3c4085")
+
+TWITTER_BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN", "AAAAAAAAAAAAAAAAAAAAABSp3wEAAAAArUBp4mvS3S6Hi02x6qMMqm8D9bQ%3DG6sZkJwlnC3A7PDYURcWOsZvZ2BNStlvmArrbhBsyWhgBlLKmW")
+
+# LinkedIn API Key (RapidAPI)
+LINKEDIN_API_KEY = os.getenv("LINKEDIN_API_KEY", "5c33f25544msh018fd1d02e9a541p1fb651jsn62808cbb7326")
+
