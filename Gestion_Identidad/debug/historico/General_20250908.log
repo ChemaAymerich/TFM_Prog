@@ -53,3 +53,16 @@
 2025-09-08 19:48:51,312 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
 2025-09-08 19:48:51,359 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
 2025-09-08 19:48:51,361 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=jorgerrios, tipo=URL del usuario
+2025-09-09 08:13:43,178 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-09 08:13:43,180 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-09 08:13:43,182 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-09 08:13:43,183 - DEBUG -  Modo: production
+2025-09-09 08:13:43,183 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-09 12:39:21,845 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-09 12:39:21,849 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-09 12:39:21,852 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "jorgerrios", "dropdown1": "LinkedIn", "dropdown2": "URL del usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del usuario", "optionsForDropdown2": ["URL del usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-09 12:39:21,853 - DEBUG -  Modo: development
+2025-09-09 12:39:21,853 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-09 12:39:21,962 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria Aymerich Sanchez, tipo=Nombre/Apellidos
+2025-09-09 12:39:23,236 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-09 12:39:23,260 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=jorgerrios, tipo=URL del usuario

@@ -124,40 +124,64 @@ def search(request):
                         "phones": dict_to_list(sensitive_data['phones']),
                     }
                 })
-            
             # 🚀 INSTAGRAM
             elif platform == "Instagram":
                 instagram_logger.debug(f"[Instagram] Iniciando búsqueda para usuario={text}")
-
+            
                 username = text
                 n_fotos = int(row.get("numPhotos", 3))
-
+            
                 base_dir = os.path.dirname(os.path.abspath(__file__))
                 busquedas_dir = os.path.normpath(os.path.join(base_dir, '..', 'busquedas'))
                 user_base_folder = os.path.join(busquedas_dir, username)
                 posts_folder = os.path.join(user_base_folder, str(n_fotos))
-                os.makedirs(posts_folder, exist_ok=True)
-
+            
+                # 📁 Solo en development creamos carpetas y archivos
+                if mode == "development":
+                    os.makedirs(posts_folder, exist_ok=True)
+            
                 user_info_path = os.path.join(user_base_folder, 'user_info.json')
                 user_posts_path = os.path.join(user_base_folder, 'user_posts.json')
-
+            
                 # 📌 USER INFO
                 if mode == "development" and os.path.exists(user_info_path):
                     instagram_logger.debug(f"[Instagram][DEV] Leyendo user_info desde cache: {user_info_path}")
                     with open(user_info_path, 'r', encoding='utf-8') as f:
                         user_info = json.load(f)
+                    user_id = user_info.get("data", {}).get("user", {}).get("id") or \
+                              user_info.get("data", {}).get("user", {}).get("pk")
                 else:
                     instagram_logger.debug(f"[Instagram][{mode.upper()}] Forzando API get_user_info() para {username}")
-                    user_info, user_id, _ = get_user_info(username, mode=mode)
+                    result = get_user_info(username, mode=mode)
+
+                    # Normalizar retorno
+                    if isinstance(result, tuple):
+                        user_info, user_id, _ = result
+                    else:
+                        user_info = result
+                        user_id = None
+
+                    # Si es string, intentar parsear
+                    if isinstance(user_info, str):
+                        try:
+                            user_info = json.loads(user_info)
+                            instagram_logger.debug("[Instagram] user_info convertido desde string a JSON")
+                        except Exception as e:
+                            instagram_logger.error(f"[Instagram] ❌ user_info no es JSON válido: {e}")
+                            return Response({'status': 'error', 'message': f"Respuesta inesperada de get_user_info para {username}"})
+
+                    if not user_id:
+                        user_id = user_info.get("data", {}).get("user", {}).get("id") or \
+                                  user_info.get("data", {}).get("user", {}).get("pk")
+
                     if mode == "development":
                         with open(user_info_path, 'w', encoding='utf-8') as f:
                             json.dump(user_info, f, indent=4)
-
+            
                 user_data = user_info.get("data", {}).get("user", {})
-                user_id = user_data.get("id") or user_data.get("pk")
                 if not user_id:
                     return Response({'status': 'error', 'message': f"No se pudo obtener el ID de {username}"})
-
+            
                 # 📌 USER POSTS
                 if mode == "development" and os.path.exists(user_posts_path):
                     with open(user_posts_path, 'r', encoding='utf-8') as f:
@@ -165,17 +189,34 @@ def search(request):
                 else:
                     instagram_logger.debug(f"[Instagram][{mode.upper()}] Forzando API get_user_posts() para {username}")
                     user_posts = get_user_posts(username, user_id, n_fotos, posts_folder, mode=mode)
+            
+                    if isinstance(user_posts, str):
+                        try:
+                            user_posts = json.loads(user_posts)
+                            instagram_logger.debug("[Instagram] user_posts convertido desde string a JSON")
+                        except Exception as e:
+                            instagram_logger.error(f"[Instagram] ❌ user_posts no es JSON válido: {e}")
+                            return Response({'status': 'error', 'message': f"Respuesta inesperada de get_user_posts para {username}"})
+            
                     if mode == "development":
                         with open(user_posts_path, 'w', encoding='utf-8') as f:
                             json.dump(user_posts, f, indent=4)
-
+            
                 # 📌 DETAILED POSTS
                 try:
                     detailed_posts = get_detailed_posts(user_posts, n_fotos, user_id, username, posts_folder, mode=mode)
+            
+                    if isinstance(detailed_posts, str):
+                        try:
+                            detailed_posts = json.loads(detailed_posts)
+                            instagram_logger.debug("[Instagram] detailed_posts convertido desde string a JSON")
+                        except Exception as e:
+                            instagram_logger.error(f"[Instagram] ❌ detailed_posts no es JSON válido: {e}")
+                            detailed_posts = []
                 except Exception as e:
                     instagram_logger.error(f"[Instagram] ❌ Error en get_detailed_posts: {e}")
                     detailed_posts = []
-
+            
                 # 📌 EXTRAER INFORMACIÓN COMPROMETIDA
                 sensitive_data = {
                     'dnis': defaultdict(set),
@@ -183,11 +224,11 @@ def search(request):
                     'cccs': defaultdict(set),
                     'phones': defaultdict(set)
                 }
-
+            
                 # Bio
                 bio = user_data.get("biography", "")
                 find_sensitive(bio, sensitive_data, f"https://instagram.com/{username}")
-
+            
                 # Captions de posts
                 for dp in detailed_posts:
                     caption = dp.get("data", {}).get("shortcode_media", {}) \
@@ -195,15 +236,13 @@ def search(request):
                     if caption:
                         text_caption = caption[0].get("node", {}).get("text", "")
                         find_sensitive(text_caption, sensitive_data, f"https://instagram.com/p/{dp.get('shortcode','')}")
-                
+            
                 instagram_logger.debug(f"mode: {mode}")
                 # SOLO EN DEVELOPMENT -> buscar sensibles en comentarios con JSON
                 if mode == "development":
-                    instagram_logger.debug("[Instagram][DEV] Analizando comentarios desde JSON -> mode: {mode}")
+                    instagram_logger.debug("[Instagram][DEV] Analizando comentarios desde JSON")
                     try:
                         from Gestion_Identidad.Instagram.views.instagram_analysis_view import find_sensitive_data_in_comments
-                        instagram_logger.debug("[Instagram][DEV] >>> ENTRO en find_sensitive_data_in_comments <<<")
-
                         full_info_path = os.path.join(posts_folder, f'full_information_{n_fotos}_posts.json')
                         if os.path.exists(full_info_path):
                             with open(full_info_path, 'r', encoding='utf-8') as f:
@@ -216,7 +255,7 @@ def search(request):
                         instagram_logger.error(f"[Instagram][DEV] ❌ Error analizando comentarios: {e}")
                 else:
                     instagram_logger.debug("[Instagram][PROD] 🚫 Saltamos análisis de comentarios (solo bio y captions)")
-
+            
                 # 📌 EXTRAER UBICACIONES
                 locations = []
                 for dp in detailed_posts:
@@ -227,7 +266,7 @@ def search(request):
                         if timestamp:
                             date_str = datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d')
                             locations.append({'location': loc_name, 'date': date_str})
-
+            
                 all_results_final.append({
                     "platform": "Instagram",
                     "status": "success",
@@ -244,7 +283,7 @@ def search(request):
                         "phones": dict_to_list(sensitive_data['phones']),
                     }
                 })
-
+            
             # 🚀 TWITTER
             elif platform == "Twitter":
                 twitter_logger.debug(f"[Twitter] Iniciando búsqueda para usuario={text}")
