@@ -143,6 +143,7 @@ def google_search_view(request):
     google_logger.debug(f"📨 Payload recibido: {json.dumps(request.data)}")
 
 
+
     rows = request.data.get("rows", [])
     if not rows:
         return Response({"status": "error", "message": "No hay datos para buscar."})
@@ -191,7 +192,9 @@ def google_search_view(request):
         json.dump(all_results, f, indent=4, ensure_ascii=False)
     google_logger.debug(f"✅ Archivo guardado en {file_path}")
 
-
+    google_logger.debug(f"[GoogleView] Payload recibido: {request.data}")
+    google_logger.debug(f"[GoogleView] Procesando fila: texto={texto}, tipo={tipo}")
+    google_logger.debug(f"[GoogleView] Guardando archivo en {file_path}")
     return Response({
         "status": "success",
         "results": all_results,

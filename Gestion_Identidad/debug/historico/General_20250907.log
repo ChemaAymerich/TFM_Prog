@@ -1,0 +1,146 @@
+2025-09-07 21:54:40,214 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 21:54:40,218 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 21:54:40,218 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-07 21:54:40,219 - DEBUG -  Modo: production
+2025-09-07 21:54:40,219 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:06:33,424 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:06:33,428 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:06:33,428 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-07 22:06:33,428 - DEBUG -  Modo: production
+2025-09-07 22:06:33,429 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:06:44,518 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'
+2025-09-07 22:08:35,060 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:08:35,063 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:08:35,064 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-07 22:08:35,065 - DEBUG -  Modo: production
+2025-09-07 22:08:35,065 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:26:23,271 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:26:23,275 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:26:23,275 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-07 22:26:23,275 - DEBUG -  Modo: production
+2025-09-07 22:26:23,275 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:26:34,680 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'
+2025-09-07 22:27:26,017 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:27:26,018 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:27:26,019 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-07 22:27:26,019 - DEBUG -  Modo: production
+2025-09-07 22:27:26,019 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:27:43,956 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:27:43,964 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:27:43,967 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:27:43,968 - ERROR - ❌ Error en search: You cannot access body after reading from request's data stream
+2025-09-07 22:27:43,971 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:27:43,972 - ERROR - ❌ Error en search: You cannot access body after reading from request's data stream
+2025-09-07 22:30:40,725 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:30:40,731 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:30:40,732 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-07 22:30:40,732 - DEBUG -  Modo: production
+2025-09-07 22:30:40,732 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:33:09,531 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:33:09,535 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:33:09,536 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-07 22:33:09,536 - DEBUG -  Modo: production
+2025-09-07 22:33:09,536 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:33:21,229 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'
+2025-09-07 22:34:11,645 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:34:11,647 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:34:11,647 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-07 22:34:11,647 - DEBUG -  Modo: development
+2025-09-07 22:34:11,648 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:40:15,729 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:40:15,731 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 22:40:15,732 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-07 22:40:15,732 - DEBUG -  Modo: production
+2025-09-07 22:40:15,732 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 22:40:16,779 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'
+2025-09-07 23:41:23,961 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 23:41:23,962 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-07 23:41:23,963 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "jorgerrios", "dropdown1": "LinkedIn", "dropdown2": "URL del usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del usuario", "optionsForDropdown2": ["URL del usuario"], "numPhotos": 3}, {"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "", "selectedOption1": "LinkedIn", "selectedOption2": "", "optionsForDropdown2": ["URL del usuario"], "numPhotos": 3}, {"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-07 23:41:23,963 - DEBUG -  Modo: development
+2025-09-07 23:41:23,963 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-07 23:41:23,978 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-07 23:41:23,989 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=jorgerrios, tipo=URL del usuario
+2025-09-07 23:41:23,990 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=
+2025-09-07 23:41:23,992 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria Aymerich Sanchez, tipo=Nombre/Apellidos
+2025-09-07 23:41:24,493 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-07 23:41:24,493 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:24,494 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Univer...
+2025-09-07 23:41:24,494 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:24,495 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-07 23:41:24,495 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:24,495 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-07 23:41:24,496 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:24,496 - DEBUG - [find_sensitive] Analizando texto: Apr 21, 2024 ... Jose Maria Aymerich Sanchez. INDEPENDIENTE. Senior Masculino. F...
+2025-09-07 23:41:24,497 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:25,883 - DEBUG - [find_sensitive] Analizando texto: Mar 7, 2005 ... Maria S Aymerich, Carlos Sanchez-Escobar, Nancy Gonzalo, José A ...
+2025-09-07 23:41:25,884 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:25,884 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-07 23:41:25,884 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:25,885 - DEBUG - [find_sensitive] Analizando texto: x. Authors. José L Lanciego , Nancy Gonzalo, Maria Castle, Carlos Sanchez-Escoba...
+2025-09-07 23:41:25,885 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:25,886 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-07 23:41:25,886 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:25,886 - DEBUG - [find_sensitive] Analizando texto: Business Consultant en Management Solutions · Educación: Universidad Politécnica...
+2025-09-07 23:41:25,887 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:26,291 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-07 23:41:26,292 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:26,292 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Univer...
+2025-09-07 23:41:26,292 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:26,292 - DEBUG - [find_sensitive] Analizando texto: Jose Aymerich · Jose Manuel Aymerich · Jose Aymerich · Jose Ramon Macia Aymerich...
+2025-09-07 23:41:26,293 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:26,293 - DEBUG - [find_sensitive] Analizando texto: 6 resultados para «José María Aymerich» en España Buscar en todo el mundo · José...
+2025-09-07 23:41:26,293 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:26,294 - DEBUG - [find_sensitive] Analizando texto: Apr 21, 2024 ... Jose Maria Aymerich Sanchez. INDEPENDIENTE. Senior Masculino. F...
+2025-09-07 23:41:26,294 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,400 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-08 08:48:30,406 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-08 08:48:30,412 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-08 08:48:30,414 - DEBUG -  Modo: development
+2025-09-08 08:48:30,414 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-08 08:48:30,474 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-08 08:48:30,479 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria Aymerich Sanchez, tipo=Nombre/Apellidos
+2025-09-08 08:48:30,911 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-08 08:48:30,911 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,911 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Univer...
+2025-09-08 08:48:30,912 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,912 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-08 08:48:30,912 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,912 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-08 08:48:30,912 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,912 - DEBUG - [find_sensitive] Analizando texto: Apr 21, 2024 ... Jose Maria Aymerich Sanchez. INDEPENDIENTE. Senior Masculino. F...
+2025-09-08 08:48:30,913 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:31,732 - DEBUG - [find_sensitive] Analizando texto: Mar 7, 2005 ... Maria S Aymerich, Carlos Sanchez-Escobar, Nancy Gonzalo, José A ...
+2025-09-08 08:48:31,732 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:31,732 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-08 08:48:31,732 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:31,733 - DEBUG - [find_sensitive] Analizando texto: x. Authors. José L Lanciego , Nancy Gonzalo, Maria Castle, Carlos Sanchez-Escoba...
+2025-09-08 08:48:31,733 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:31,733 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-08 08:48:31,733 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:31,733 - DEBUG - [find_sensitive] Analizando texto: Business Consultant en Management Solutions · Educación: Universidad Politécnica...
+2025-09-08 08:48:31,733 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:32,091 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-08 08:48:32,091 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:32,091 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Univer...
+2025-09-08 08:48:32,091 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:32,091 - DEBUG - [find_sensitive] Analizando texto: Jose Aymerich · Jose Manuel Aymerich · Jose Aymerich · Jose Ramon Macia Aymerich...
+2025-09-08 08:48:32,092 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:32,092 - DEBUG - [find_sensitive] Analizando texto: 6 resultados para «José María Aymerich» en España Buscar en todo el mundo · José...
+2025-09-08 08:48:32,092 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:32,092 - DEBUG - [find_sensitive] Analizando texto: Apr 21, 2024 ... Jose Maria Aymerich Sanchez. INDEPENDIENTE. Senior Masculino. F...
+2025-09-08 08:48:32,092 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 14:58:14,469 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-08 14:58:14,497 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-08 14:58:14,534 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Segiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "", "selectedOption1": "LinkedIn", "selectedOption2": "", "optionsForDropdown2": ["URL del usuario"], "numPhotos": 3}, {"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "06598429m", "dropdown1": "Google", "dropdown2": "DNI", "selectedOption1": "Google", "selectedOption2": "DNI", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "651015274", "dropdown1": "Google", "dropdown2": "N\u00ba Tel\u00e9fono", "selectedOption1": "Google", "selectedOption2": "N\u00ba Tel\u00e9fono", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-08 14:58:14,538 - DEBUG -  Modo: development
+2025-09-08 14:58:14,538 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=Segiamen97, tipo=Nombre de usuario
+2025-09-08 14:58:16,503 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'
+2025-09-08 14:58:41,598 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-08 14:58:41,601 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-08 14:58:41,603 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria YAmerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-08 14:58:41,604 - DEBUG -  Modo: development
+2025-09-08 14:58:41,604 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria YAmerich Sanchez, tipo=Nombre/Apellidos
+2025-09-08 14:58:43,012 - DEBUG - [find_sensitive] Analizando texto: Roberto García, Isabel Yamerich ... Se reúnen los Soler, sobrinos y sobrinos nie...
+2025-09-08 14:58:43,012 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 14:58:43,012 - DEBUG - [find_sensitive] Analizando texto: 51 SANCHEZ ROJAS JOSE ADELIS 20431977. 52 SANJUAN QUINTERO SUGEY MARIA ... 2 LAR...
+2025-09-08 14:58:43,012 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0

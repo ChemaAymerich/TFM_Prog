@@ -47,18 +47,20 @@ def switch_account():
 
 BUSQUEDAS_DIR = r"C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas"
 
-def get_user_info(username):
+
+def get_user_info(username, mode="development"):
     instagram_logger.debug(f"🔍 Buscando info del usuario: {username}")
 
     user_folder = os.path.join(BUSQUEDAS_DIR, username)
     json_path = os.path.join(user_folder, "user_info.json")
     Path(user_folder).mkdir(parents=True, exist_ok=True)
 
-    if os.path.exists(json_path):
-        instagram_logger.debug(f"📂 Cargando user_info desde: {json_path}")
+    if mode == "development" and os.path.exists(json_path):
+        instagram_logger.debug(f"[Instagram][DEV] 📂 Cargando user_info desde: {json_path}")
         with open(json_path, "r", encoding="utf-8") as f:
             user_info = json.load(f)
     else:
+        instagram_logger.debug(f"[Instagram][{mode.upper()}] 🚀 Forzando API get_user_info() para {username}")
         headers = switch_account()
         conn = http.client.HTTPSConnection("instagram28.p.rapidapi.com")
         conn.request("GET", f"/user_info?user_name={username}", headers=headers)
@@ -66,9 +68,12 @@ def get_user_info(username):
         data = res.read()
         user_info = json.loads(data.decode("utf-8"))
 
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(user_info, f, indent=4, ensure_ascii=False)
+        if mode == "development":
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump(user_info, f, indent=4, ensure_ascii=False)
             instagram_logger.debug(f"💾 user_info guardado en {json_path}")
+        else:
+            instagram_logger.debug(f"[Instagram][PRODUCTION] ❌ No se guarda user_info en disco")
 
     user_data = user_info.get("data", {}).get("user", {})
     user_id = user_data.get("id") or user_data.get("pk", "N/A")
@@ -76,19 +81,19 @@ def get_user_info(username):
 
     return user_info, user_id, is_private
 
-# Obtener publicaciones del usuario
-def get_user_posts(username, user_id, n_fotos, posts_folder):
+
+def get_user_posts(username, user_id, n_fotos, posts_folder, mode="development"):
     instagram_logger.debug(f"📸 Extrayendo {n_fotos} fotos para usuario {username} (user_id: {user_id})")
     instagram_logger.debug(f"📁 Carpeta destino: {posts_folder}")
-    
-    #Path(posts_folder).mkdir(parents=True, exist_ok=True)
+
     json_path = os.path.join(posts_folder, "user_posts.json")
 
-    if os.path.exists(json_path):
-        instagram_logger.debug(f"📂 user_posts.json ya existe en: {json_path}")
+    if mode == "development" and os.path.exists(json_path):
+        instagram_logger.debug(f"[Instagram][DEV] 📂 user_posts.json ya existe en: {json_path}")
         with open(json_path, "r", encoding="utf-8") as f:
             posts_info = json.load(f)
     else:
+        instagram_logger.debug(f"[Instagram][{mode.upper()}] 🚀 Forzando API get_user_posts() para {username}")
         headers = switch_account()
         conn = http.client.HTTPSConnection("instagram28.p.rapidapi.com")
         conn.request("GET", f"/medias?user_id={user_id}&batch_size={n_fotos}", headers=headers)
@@ -96,32 +101,51 @@ def get_user_posts(username, user_id, n_fotos, posts_folder):
         data = res.read()
         posts_info = json.loads(data.decode("utf-8"))
 
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(posts_info, f, indent=4, ensure_ascii=False)
-        instagram_logger.debug(f"💾 user_posts.json guardado en: {json_path}")
+        if mode == "development":
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump(posts_info, f, indent=4, ensure_ascii=False)
+            instagram_logger.debug(f"💾 user_posts.json guardado en: {json_path}")
+        else:
+            instagram_logger.debug(f"[Instagram][PRODUCTION] ❌ No se guarda user_posts en disco")
 
     return posts_info
 
-def get_detailed_posts(user_posts_data, n_fotos, user_id, username, destination_folder):
+
+def get_detailed_posts(user_posts_data, n_fotos, user_id, username, destination_folder, mode="development"):
     """
     Recorre los n primeros posts del usuario, y para cada uno llama a otra API
     para obtener datos completos del post (comentarios, likes, media, etc.)
     """
-    instagram_logger.debug(f"💾 Entrando en get_detailed_posts")
+    instagram_logger.debug(f"💾 Entrando en get_detailed_posts (usuario={username}, n_fotos={n_fotos}, modo={mode})")
+
+    output_path = os.path.join(destination_folder, f"full_information_{n_fotos}_posts.json")
+
+    # 📌 Development: usar cache si existe
+    if mode == "development" and os.path.exists(output_path):
+        instagram_logger.debug(f"[Instagram][DEV] 📂 Leyendo full_information desde cache: {output_path}")
+        with open(output_path, "r", encoding="utf-8") as f:
+            detailed_posts = json.load(f)
+        return detailed_posts
+
+    # 🚀 Production o si no hay cache en dev → forzar API
+    instagram_logger.debug(f"[Instagram][{mode.upper()}] 🚀 Forzando API get_detailed_posts() para {username}")
     detailed_posts = []
-    instagram_logger.debug(f"Antes Enumerate.")
+
     edges = user_posts_data.get("data", {}) \
-                       .get("user", {}) \
-                       .get("edge_owner_to_timeline_media", {}) \
-                       .get("edges", [])
+                           .get("user", {}) \
+                           .get("edge_owner_to_timeline_media", {}) \
+                           .get("edges", [])
+
     for i, edge in enumerate(edges):
         if i >= n_fotos:
             break
         post = edge.get("node", {})
         shortcode = post.get("shortcode")
         if not shortcode:
+            instagram_logger.warning(f"[Instagram] ⚠️ Post {i} sin shortcode, se omite.")
             continue
-        instagram_logger.debug(f"Post {i} shortcode: {shortcode}")
+
+        instagram_logger.debug(f"[Instagram] Post {i+1}/{n_fotos} shortcode={shortcode} -> solicitando detalles")
         headers = switch_account()
         conn = http.client.HTTPSConnection("instagram28.p.rapidapi.com")
         conn.request("GET", f"/media_info?short_code={shortcode}", headers=headers)
@@ -130,14 +154,15 @@ def get_detailed_posts(user_posts_data, n_fotos, user_id, username, destination_
         detailed_post = json.loads(data.decode("utf-8"))
 
         detailed_posts.append(detailed_post)
+        instagram_logger.debug(f"[Instagram] 📥 Post {i+1}/{n_fotos} detallado correctamente")
 
-        instagram_logger.debug(f"📥 Post {i+1}/{n_fotos} detallado para shortcode {shortcode}")
-
-    # Guardar resultado completo
-    output_path = os.path.join(destination_folder, f"full_information_{n_fotos}_posts.json")
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(detailed_posts, f, indent=4, ensure_ascii=False)
-    instagram_logger.debug(f"💾 Detalles completos guardados en: {output_path}")
+    # 💾 Guardar solo en development
+    if mode == "development":
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(detailed_posts, f, indent=4, ensure_ascii=False)
+        instagram_logger.debug(f"💾 Detalles completos guardados en: {output_path}")
+    else:
+        instagram_logger.debug(f"[Instagram][PRODUCTION] ❌ No se guardan detalles en disco")
 
     return detailed_posts
 

@@ -1,0 +1,57 @@
+2025-09-05 00:04:38,760 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:04:38,770 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:04:38,771 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:04:38,771 - DEBUG -  Modo: production
+2025-09-05 00:04:38,772 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:04:50,056 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'
+2025-09-05 00:06:19,073 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:06:19,074 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:06:19,074 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:06:19,075 - DEBUG -  Modo: production
+2025-09-05 00:06:19,075 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:08:10,019 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:08:10,022 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:08:10,022 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:08:10,022 - DEBUG -  Modo: production
+2025-09-05 00:08:10,022 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:09:07,654 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:09:07,657 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:09:07,658 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-05 00:09:07,658 - DEBUG -  Modo: development
+2025-09-05 00:09:07,659 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:11:49,938 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:11:49,945 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:11:49,945 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:11:49,945 - DEBUG -  Modo: production
+2025-09-05 00:11:49,946 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:11:53,034 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'
+2025-09-05 00:12:34,629 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:12:34,630 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:12:34,630 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:12:34,630 - DEBUG -  Modo: production
+2025-09-05 00:12:34,630 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:16:50,433 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:16:50,435 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:16:50,435 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:16:50,435 - DEBUG -  Modo: production
+2025-09-05 00:16:50,435 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:38:57,800 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:38:57,804 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:38:57,804 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:38:57,804 - DEBUG -  Modo: production
+2025-09-05 00:38:57,804 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:52:56,824 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:52:56,829 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:52:56,830 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:52:56,830 - DEBUG -  Modo: production
+2025-09-05 00:52:56,830 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:53:31,295 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:53:31,295 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:53:31,296 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-05 00:53:31,296 - DEBUG -  Modo: production
+2025-09-05 00:53:31,296 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-05 00:54:19,101 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-05 00:54:19,102 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-05 00:54:19,103 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-05 00:54:19,103 - DEBUG -  Modo: development
+2025-09-05 00:54:19,103 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario

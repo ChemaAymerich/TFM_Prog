@@ -1,0 +1,247 @@
+2025-09-04 17:47:48,965 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 17:47:48,981 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 17:47:48,982 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 17:47:48,982 - DEBUG -  Modo: development
+2025-09-04 17:47:48,983 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 18:01:25,602 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 18:01:25,618 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 18:01:25,619 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 18:01:25,620 - DEBUG -  Modo: development
+2025-09-04 18:01:25,620 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 18:02:01,707 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 18:02:01,708 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 18:02:01,708 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 18:02:01,709 - DEBUG -  Modo: development
+2025-09-04 18:02:01,709 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 18:03:37,474 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 18:03:37,475 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 18:03:37,476 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 18:03:37,476 - DEBUG -  Modo: development
+2025-09-04 18:03:37,476 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 18:09:48,049 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 18:09:48,054 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 18:09:48,055 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 18:09:48,055 - DEBUG -  Modo: development
+2025-09-04 18:09:48,055 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 18:10:39,539 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 18:10:39,549 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 18:10:39,550 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 18:10:39,551 - DEBUG -  Modo: development
+2025-09-04 18:10:39,551 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 18:19:05,935 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 18:19:05,940 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 18:19:05,940 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 18:19:05,941 - DEBUG -  Modo: development
+2025-09-04 18:19:05,941 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 18:25:05,501 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 18:25:05,506 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 18:25:05,507 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 18:25:05,507 - DEBUG -  Modo: development
+2025-09-04 18:25:05,507 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 18:26:10,677 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 18:26:10,679 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 18:26:10,680 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 18:26:10,686 - DEBUG -  Modo: development
+2025-09-04 18:26:10,686 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 22:06:02,539 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 22:06:02,541 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 22:06:02,542 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 22:06:02,542 - DEBUG -  Modo: development
+2025-09-04 22:06:02,542 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 22:19:52,886 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 22:19:52,890 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 22:19:52,891 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 22:19:52,891 - DEBUG -  Modo: development
+2025-09-04 22:19:52,891 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 22:32:13,615 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 22:32:13,622 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 22:32:13,623 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 22:32:13,623 - DEBUG -  Modo: development
+2025-09-04 22:32:13,624 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 22:40:57,310 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 22:40:57,313 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 22:40:57,313 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria AYmerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "https://es.linkedin.com/in/jose-maria-aymerich-sanchez", "dropdown1": "LinkedIn", "dropdown2": "URL del usuario", "selectedOption1": "LinkedIn", "selectedOption2": "URL del usuario", "optionsForDropdown2": ["URL del usuario"], "numPhotos": 3}, {"text": "Gabriel Carravilla Barrueco", "dropdown1": "", "dropdown2": "Nombre de usuario", "selectedOption1": "", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario", "N\u00ba Tel\u00e9fono", "Email", "DNI"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 22:40:57,313 - DEBUG -  Modo: development
+2025-09-04 22:40:57,314 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria AYmerich Sanchez, tipo=Nombre/Apellidos
+2025-09-04 22:40:57,670 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:40:57,672 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:57,672 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Univer...
+2025-09-04 22:40:57,673 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:57,673 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:40:57,673 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:57,673 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:40:57,673 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:57,674 - DEBUG - [find_sensitive] Analizando texto: Apr 21, 2024 ... Jose Maria Aymerich Sanchez. INDEPENDIENTE. Senior Masculino. F...
+2025-09-04 22:40:57,674 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,345 - DEBUG - [find_sensitive] Analizando texto: Mar 7, 2005 ... Maria S Aymerich, Carlos Sanchez-Escobar, Nancy Gonzalo, José A ...
+2025-09-04 22:40:58,346 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,346 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:40:58,346 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,346 - DEBUG - [find_sensitive] Analizando texto: x. Authors. José L Lanciego , Nancy Gonzalo, Maria Castle, Carlos Sanchez-Escoba...
+2025-09-04 22:40:58,346 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,346 - DEBUG - [find_sensitive] Analizando texto: Business Consultant en Management Solutions · Educación: Universidad Politécnica...
+2025-09-04 22:40:58,346 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,346 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:40:58,347 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,561 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Univer...
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Analizando texto: Jose Aymerich · Jose Manuel Aymerich · Jose Aymerich · Jose Ramon Macia Aymerich...
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Analizando texto: 6 resultados para «José María Aymerich» en España Buscar en todo el mundo · José...
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Analizando texto: Apr 21, 2024 ... Jose Maria Aymerich Sanchez. INDEPENDIENTE. Senior Masculino. F...
+2025-09-04 22:40:58,562 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:40:58,562 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-04 22:40:58,592 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 22:40:58,606 - DEBUG - ▶️ Procesando fila -> platform=LinkedIn, text=https://es.linkedin.com/in/jose-maria-aymerich-sanchez, tipo=URL del usuario
+2025-09-04 22:40:58,607 - DEBUG - ▶️ Procesando fila -> platform=, text=Gabriel Carravilla Barrueco, tipo=Nombre de usuario
+2025-09-04 22:51:53,657 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 22:51:53,659 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 22:51:53,659 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "Jose Maria Aymerich Sanchez", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "Gabriel Carravilla Barrueco", "dropdown1": "Google", "dropdown2": "Nombre/Apellidos", "selectedOption1": "Google", "selectedOption2": "Nombre/Apellidos", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}, {"text": "xemacanario", "dropdown1": "Twitter", "dropdown2": "Nombre de usuario", "selectedOption1": "Twitter", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 22:51:53,660 - DEBUG -  Modo: development
+2025-09-04 22:51:53,660 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Jose Maria Aymerich Sanchez, tipo=Nombre/Apellidos
+2025-09-04 22:51:53,916 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:51:53,916 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:53,917 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Univer...
+2025-09-04 22:51:53,917 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:53,917 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:51:53,917 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:53,917 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:51:53,917 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:53,917 - DEBUG - [find_sensitive] Analizando texto: Apr 21, 2024 ... Jose Maria Aymerich Sanchez. INDEPENDIENTE. Senior Masculino. F...
+2025-09-04 22:51:53,917 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,578 - DEBUG - [find_sensitive] Analizando texto: Mar 7, 2005 ... Maria S Aymerich, Carlos Sanchez-Escobar, Nancy Gonzalo, José A ...
+2025-09-04 22:51:54,578 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,579 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:51:54,579 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,579 - DEBUG - [find_sensitive] Analizando texto: x. Authors. José L Lanciego , Nancy Gonzalo, Maria Castle, Carlos Sanchez-Escoba...
+2025-09-04 22:51:54,579 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,579 - DEBUG - [find_sensitive] Analizando texto: Business Consultant en Management Solutions · Educación: Universidad Politécnica...
+2025-09-04 22:51:54,579 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,579 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:51:54,579 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,773 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Madrid...
+2025-09-04 22:51:54,773 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,774 - DEBUG - [find_sensitive] Analizando texto: Jose Maria Aymerich Sanchez. Business Consultant en Management Solutions. Univer...
+2025-09-04 22:51:54,774 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,774 - DEBUG - [find_sensitive] Analizando texto: Jose Aymerich · Jose Manuel Aymerich · Jose Aymerich · Jose Ramon Macia Aymerich...
+2025-09-04 22:51:54,775 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,775 - DEBUG - [find_sensitive] Analizando texto: 6 resultados para «José María Aymerich» en España Buscar en todo el mundo · José...
+2025-09-04 22:51:54,775 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,775 - DEBUG - [find_sensitive] Analizando texto: Apr 21, 2024 ... Jose Maria Aymerich Sanchez. INDEPENDIENTE. Senior Masculino. F...
+2025-09-04 22:51:54,775 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:54,776 - DEBUG - ▶️ Procesando fila -> platform=Google, text=Gabriel Carravilla Barrueco, tipo=Nombre/Apellidos
+2025-09-04 22:51:55,037 - DEBUG - [find_sensitive] Analizando texto: Gabriel Carravilla Barrueco. Studying a degree in Energy Engineering. Madrid. Un...
+2025-09-04 22:51:55,038 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,038 - DEBUG - [find_sensitive] Analizando texto: Mira el perfil de Gabriel Carravilla Barrueco en LinkedIn, una red ... Gabriel C...
+2025-09-04 22:51:55,039 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,039 - DEBUG - [find_sensitive] Analizando texto: Gabriel Carravilla Barrueco. Studying a degree in Energy Engineering. Madrid. Un...
+2025-09-04 22:51:55,039 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,040 - DEBUG - [find_sensitive] Analizando texto: Óscar Carravilla Expósito · Daniel Fernandez Carravilla · Elena Alarcón Carravil...
+2025-09-04 22:51:55,040 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,040 - DEBUG - [find_sensitive] Analizando texto: Arquitecto y Urbanista · Experiencia: Arquitectura y Urbanismo Barrueco · Ubicac...
+2025-09-04 22:51:55,041 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,252 - DEBUG - [find_sensitive] Analizando texto: ... CARRAVILLA BARRUECO, GABRIEL. 28011945. Madrid. Colegio Fray Luis de Leon. C...
+2025-09-04 22:51:55,253 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,576 - DEBUG - [find_sensitive] Analizando texto: 8Results for "Gabriel Barrueco" · Gabriel Barrueco · Gabriel Barrueco Pires · Ga...
+2025-09-04 22:51:55,577 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,577 - DEBUG - [find_sensitive] Analizando texto: Gabriel Carravilla Barrueco. Estudiante en Universidad Rey Juan Carlos. Universi...
+2025-09-04 22:51:55,578 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,578 - DEBUG - [find_sensitive] Analizando texto: Gabriel Carravilla Barrueco. Studying a degree in Energy Engineering. Madrid. Un...
+2025-09-04 22:51:55,579 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,579 - DEBUG - [find_sensitive] Analizando texto: Óscar Carravilla Expósito · Daniel Fernandez Carravilla · Elena Alarcón Carravil...
+2025-09-04 22:51:55,580 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,580 - DEBUG - [find_sensitive] Analizando texto: ... BARRUECO RODRÍGUEZ, MARÍA VICTORIA. ***0589**. L. S. 226918 BARRUECO RODRIGU...
+2025-09-04 22:51:55,581 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,842 - DEBUG - [find_sensitive] Analizando texto: 8Results for "Gabriel Barrueco" · Gabriel Barrueco · Gabriel Barrueco Pires · Ga...
+2025-09-04 22:51:55,842 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,843 - DEBUG - [find_sensitive] Analizando texto: Mira el perfil de Gabriel Carravilla Barrueco en LinkedIn, una red ... Gabriel C...
+2025-09-04 22:51:55,843 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,844 - DEBUG - [find_sensitive] Analizando texto: Gabriel Carravilla Barrueco. Studying a degree in Energy Engineering. Madrid. Un...
+2025-09-04 22:51:55,844 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,844 - DEBUG - [find_sensitive] Analizando texto: Arquitecto y Urbanista · Experiencia: Arquitectura y Urbanismo Barrueco · Ubicac...
+2025-09-04 22:51:55,845 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,845 - DEBUG - [find_sensitive] Analizando texto: ... GABRIEL. BARRENA GRAGERA, IRENE. BARRENA GRAGERA, TAMARA. BARREÑADA RAMOS .....
+2025-09-04 22:51:55,846 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-04 22:51:55,846 - DEBUG - ▶️ Procesando fila -> platform=Twitter, text=xemacanario, tipo=Nombre de usuario
+2025-09-04 22:53:30,487 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 22:53:30,490 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 22:53:30,491 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 22:53:30,491 - DEBUG -  Modo: development
+2025-09-04 22:53:30,492 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 22:54:34,072 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 22:54:34,075 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 22:54:34,075 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 22:54:34,076 - DEBUG -  Modo: development
+2025-09-04 22:54:34,076 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 22:59:38,653 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 22:59:38,656 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 22:59:38,657 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 22:59:38,657 - DEBUG -  Modo: development
+2025-09-04 22:59:38,657 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 22:59:38,675 - ERROR - ❌ Error en search: name 'datetime' is not defined
+2025-09-04 23:00:25,263 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:00:25,267 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:00:25,267 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 23:00:25,267 - DEBUG -  Modo: development
+2025-09-04 23:00:25,267 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:04:26,684 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:04:26,695 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:04:26,695 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 23:04:26,695 - DEBUG -  Modo: development
+2025-09-04 23:04:26,696 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:09:21,848 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:09:21,854 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:09:21,855 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}, {"text": "06598429m", "dropdown1": "Google", "dropdown2": "Email", "selectedOption1": "Google", "selectedOption2": "Email", "optionsForDropdown2": ["Nombre/Apellidos", "N\u00ba Tel\u00e9fono", "Email", "DNI", "Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 23:09:21,855 - DEBUG -  Modo: development
+2025-09-04 23:09:21,855 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:09:21,878 - DEBUG - ▶️ Procesando fila -> platform=Google, text=06598429m, tipo=Email
+2025-09-04 23:09:44,768 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:09:44,769 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:09:44,770 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 23:09:44,770 - DEBUG -  Modo: development
+2025-09-04 23:09:44,770 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:11:00,376 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:11:00,378 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:11:00,378 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-04 23:11:00,378 - DEBUG -  Modo: production
+2025-09-04 23:11:00,378 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:19:40,688 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:19:40,692 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:19:40,692 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-04 23:19:40,692 - DEBUG -  Modo: production
+2025-09-04 23:19:40,692 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:29:31,041 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:29:31,043 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:29:31,044 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 23:29:31,044 - DEBUG -  Modo: development
+2025-09-04 23:29:31,044 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:33:58,470 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:33:58,474 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:33:58,475 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "development"}
+2025-09-04 23:33:58,475 - DEBUG -  Modo: development
+2025-09-04 23:33:58,475 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:34:13,101 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:34:13,102 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:34:13,103 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-04 23:34:13,103 - DEBUG -  Modo: production
+2025-09-04 23:34:13,103 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:34:14,942 - ERROR - ❌ Error en search: 'str' object has no attribute 'get'
+2025-09-04 23:34:38,941 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:34:38,944 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:34:38,944 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-04 23:34:38,944 - DEBUG -  Modo: production
+2025-09-04 23:34:38,944 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:34:42,493 - ERROR - ❌ Error en search: 🚫 No hay cuentas disponibles para hacer solicitudes.
+2025-09-04 23:36:30,095 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:36:30,097 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:36:30,097 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-04 23:36:30,097 - DEBUG -  Modo: production
+2025-09-04 23:36:30,097 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario
+2025-09-04 23:55:01,047 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-04 23:55:01,050 - DEBUG - 🎯 Endpoint /search activado correctamente
+2025-09-04 23:55:01,050 - DEBUG - 📨 Payload recibido: {"rows": [{"text": "sergiamen97", "dropdown1": "Instagram", "dropdown2": "Nombre de usuario", "selectedOption1": "Instagram", "selectedOption2": "Nombre de usuario", "optionsForDropdown2": ["Nombre de usuario"], "numPhotos": 3}], "mode": "production"}
+2025-09-04 23:55:01,050 - DEBUG -  Modo: production
+2025-09-04 23:55:01,050 - DEBUG - ▶️ Procesando fila -> platform=Instagram, text=sergiamen97, tipo=Nombre de usuario

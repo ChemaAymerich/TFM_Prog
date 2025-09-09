@@ -13,7 +13,6 @@ def find_sensitive_data_in_comments(full_posts):
     from collections import defaultdict
     import re
 
-
     dnis = defaultdict(set)
     ibans = defaultdict(set)
     cccs = defaultdict(set)
@@ -23,7 +22,6 @@ def find_sensitive_data_in_comments(full_posts):
     iban_regex = r'([A-Z]{2}\d{2}(?:\s?\d{4}){4,7})'
     ccc_regex = r'\b\d{20}\b'
     phone_regex = r'(?:(?:\+34|0034)?\s*([6-9]\d{2})\s*\d{3}\s*\d{3})'
-
 
     def process_text(text, owner):
         # DNI
@@ -43,7 +41,6 @@ def find_sensitive_data_in_comments(full_posts):
             if len(number) >= 9:
                 phones[number].add(owner)
 
-
     # Extraer de todos los comentarios y subcomentarios
     for post in full_posts:
         edges = post.get('data', {}).get('shortcode_media', {}).get('edge_media_to_parent_comment', {}).get('edges', [])
@@ -60,11 +57,9 @@ def find_sensitive_data_in_comments(full_posts):
                 sub_text = sub_node.get('text', '')
                 process_text(sub_text, sub_owner)
 
-
     # Convertir a lista para JSON
     def dict_to_list(d):
         return [{'value': k, 'users': list(v)} for k, v in d.items()] if d else []
-
 
     return {
         'dnis': dict_to_list(dnis),
@@ -72,6 +67,7 @@ def find_sensitive_data_in_comments(full_posts):
         'cccs': dict_to_list(cccs),
         'phones': dict_to_list(phones),
     }
+
 
 @api_view(['POST'])
 def instagram_analysis(request):
@@ -100,7 +96,6 @@ def instagram_analysis(request):
     # Bio y avatar
     user = user_info.get('data', {}).get('user', {})
     bio = user.get('biography', '')
-    avatar = user.get('profile_pic_url', '')
     full_name = user.get('full_name', '')
     
     # Top comentaristas (comentarios y subcomentarios)
@@ -133,18 +128,19 @@ def instagram_analysis(request):
                 'location': location_name,
                 'date': date_str
             })
+    
     sensitive = find_sensitive_data_in_comments(full_posts)
+    
     return Response({
         'status': 'success',
         'bio': bio,
-        'avatar': avatar,
         'full_name': full_name,
         'top_commenters': [{'username': u, 'count': c} for u, c in top_commenters],
         'locations': locations,
-        'dnis': sensitive['dnis'],
-        'ibans': sensitive['ibans'],
-        'cccs': sensitive['cccs'],
-        'phones': sensitive['phones'],
+        'sensitive': {  
+            'dnis': sensitive['dnis'],
+            'ibans': sensitive['ibans'],
+            'cccs': sensitive['cccs'],
+            'phones': sensitive['phones'],
+        }
     })
-
-

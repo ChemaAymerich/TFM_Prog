@@ -1,0 +1,351 @@
+2025-09-07 21:54:40,218 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 21:54:40,219 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 21:54:40,219 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_info() para sergiamen97
+2025-09-07 21:54:40,220 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 21:54:40,220 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 21:54:40,222 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 9 - Requests: 1
+2025-09-07 21:54:44,343 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 21:54:44,350 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_posts() para sergiamen97
+2025-09-07 21:54:44,350 - DEBUG - 📸 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-09-07 21:54:44,351 - DEBUG - 📁 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-09-07 21:54:44,351 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_posts() para sergiamen97
+2025-09-07 21:54:44,382 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 8 - Requests: 2
+2025-09-07 21:54:46,728 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_posts en disco
+2025-09-07 21:54:46,729 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=production)
+2025-09-07 21:54:46,729 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_detailed_posts() para sergiamen97
+2025-09-07 21:54:46,729 - DEBUG - [Instagram] Post 1/3 shortcode=DNqDNg_I1NU -> solicitando detalles
+2025-09-07 21:54:46,740 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 7 - Requests: 3
+2025-09-07 21:54:48,642 - DEBUG - [Instagram] 📥 Post 1/3 detallado correctamente
+2025-09-07 21:54:48,642 - DEBUG - [Instagram] Post 2/3 shortcode=DNYqnYdoGS9 -> solicitando detalles
+2025-09-07 21:54:48,658 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 9 - Requests: 1
+2025-09-07 21:54:51,356 - DEBUG - [Instagram] 📥 Post 2/3 detallado correctamente
+2025-09-07 21:54:51,356 - DEBUG - [Instagram] Post 3/3 shortcode=DLnbVPSADMo -> solicitando detalles
+2025-09-07 21:54:51,368 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 8 - Requests: 2
+2025-09-07 21:54:53,185 - DEBUG - [Instagram] 📥 Post 3/3 detallado correctamente
+2025-09-07 21:54:53,186 - DEBUG - [Instagram][PRODUCTION] ❌ No se guardan detalles en disco
+2025-09-07 21:54:53,190 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 21:54:53,198 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 21:54:53,198 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-07 21:54:53,198 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 21:54:53,199 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-07 21:54:53,199 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 21:54:53,199 - DEBUG - [find_sensitive] Analizando texto: Enrique & Cristina 💍🤍...
+2025-09-07 21:54:53,199 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 21:54:53,199 - DEBUG - [Instagram][PROD] 🚫 Saltamos análisis de comentarios (solo bio y captions)
+2025-09-07 21:55:01,183 - DEBUG - Probando numero_fotos:3
+2025-09-07 21:55:01,184 - DEBUG - 📥 extract_posts activado
+2025-09-07 21:55:01,190 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 21:55:01,201 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-07 21:55:01,215 - DEBUG - Probando numero_fotos:3
+2025-09-07 21:55:12,296 - DEBUG - Probando numero_fotos:3
+2025-09-07 21:55:12,318 - DEBUG - 📥 extract_posts activado
+2025-09-07 21:55:12,318 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 21:55:12,323 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-07 21:55:12,333 - DEBUG - Probando numero_fotos:3
+2025-09-07 22:06:33,427 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:06:33,429 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 22:06:33,430 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_info() para sergiamen97
+2025-09-07 22:06:33,430 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:06:33,430 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:06:33,432 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 6 - Requests: 1
+2025-09-07 22:06:36,640 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 22:06:36,644 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:06:36,645 - DEBUG - 📸 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-09-07 22:06:36,645 - DEBUG - 📁 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-09-07 22:06:36,646 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:06:36,649 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 5 - Requests: 2
+2025-09-07 22:06:38,744 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_posts en disco
+2025-09-07 22:06:38,749 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=production)
+2025-09-07 22:06:38,749 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_detailed_posts() para sergiamen97
+2025-09-07 22:06:38,750 - DEBUG - [Instagram] Post 1/3 shortcode=DNqDNg_I1NU -> solicitando detalles
+2025-09-07 22:06:38,754 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 4 - Requests: 3
+2025-09-07 22:06:39,974 - DEBUG - [Instagram] 📥 Post 1/3 detallado correctamente
+2025-09-07 22:06:39,975 - DEBUG - [Instagram] Post 2/3 shortcode=DNYqnYdoGS9 -> solicitando detalles
+2025-09-07 22:06:39,979 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 7 - Requests: 1
+2025-09-07 22:06:42,350 - DEBUG - [Instagram] 📥 Post 2/3 detallado correctamente
+2025-09-07 22:06:42,351 - DEBUG - [Instagram] Post 3/3 shortcode=DLnbVPSADMo -> solicitando detalles
+2025-09-07 22:06:42,356 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 6 - Requests: 2
+2025-09-07 22:06:44,508 - DEBUG - [Instagram] 📥 Post 3/3 detallado correctamente
+2025-09-07 22:06:44,508 - DEBUG - [Instagram][PRODUCTION] ❌ No se guardan detalles en disco
+2025-09-07 22:06:44,513 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 22:06:44,518 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:08:35,063 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:08:35,066 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 22:08:35,067 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_info() para sergiamen97
+2025-09-07 22:08:35,068 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:08:35,071 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:08:35,110 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 5 - Requests: 1
+2025-09-07 22:08:38,347 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 22:08:38,351 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:08:38,352 - DEBUG - 📸 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-09-07 22:08:38,352 - DEBUG - 📁 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-09-07 22:08:38,353 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:08:38,357 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 4 - Requests: 2
+2025-09-07 22:08:40,510 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_posts en disco
+2025-09-07 22:08:40,515 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=production)
+2025-09-07 22:08:40,516 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_detailed_posts() para sergiamen97
+2025-09-07 22:08:40,516 - DEBUG - [Instagram] Post 1/3 shortcode=DNqDNg_I1NU -> solicitando detalles
+2025-09-07 22:08:40,521 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 3 - Requests: 3
+2025-09-07 22:08:42,109 - DEBUG - [Instagram] 📥 Post 1/3 detallado correctamente
+2025-09-07 22:08:42,110 - DEBUG - [Instagram] Post 2/3 shortcode=DNYqnYdoGS9 -> solicitando detalles
+2025-09-07 22:08:42,114 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 5 - Requests: 1
+2025-09-07 22:08:43,970 - DEBUG - [Instagram] 📥 Post 2/3 detallado correctamente
+2025-09-07 22:08:43,971 - DEBUG - [Instagram] Post 3/3 shortcode=DLnbVPSADMo -> solicitando detalles
+2025-09-07 22:08:43,972 - DEBUG - Usando cuenta: TFM2 - Saldo restante: 4 - Requests: 2
+2025-09-07 22:08:45,854 - DEBUG - [Instagram] 📥 Post 3/3 detallado correctamente
+2025-09-07 22:08:45,855 - DEBUG - [Instagram][PRODUCTION] ❌ No se guardan detalles en disco
+2025-09-07 22:08:45,860 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 22:08:45,860 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:08:45,861 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-07 22:08:45,861 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:08:45,862 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-07 22:08:45,862 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:08:45,862 - DEBUG - [find_sensitive] Analizando texto: Enrique & Cristina 💍🤍...
+2025-09-07 22:08:45,863 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:08:45,863 - DEBUG - [Instagram][PROD] 🚫 Saltamos análisis de comentarios (solo bio y captions)
+2025-09-07 22:09:23,625 - DEBUG - Probando numero_fotos:3, mode=production
+2025-09-07 22:09:23,627 - DEBUG - 📥 extract_posts activado
+2025-09-07 22:09:23,628 - DEBUG - Probando numero_fotos:3, mode=production
+2025-09-07 22:09:23,632 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 22:09:23,646 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-07 22:10:25,708 - DEBUG - Probando numero_fotos:3, mode=production
+2025-09-07 22:10:25,713 - DEBUG - 📥 extract_posts activado
+2025-09-07 22:10:25,715 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 22:10:25,716 - DEBUG - Probando numero_fotos:3, mode=production
+2025-09-07 22:10:25,724 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-07 22:26:23,274 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:26:23,275 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 22:26:23,276 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_info() para sergiamen97
+2025-09-07 22:26:23,276 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:26:23,276 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:26:23,287 - DEBUG - Usando cuenta: TFM1 - Saldo restante: 0 - Requests: 1
+2025-09-07 22:26:26,611 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 22:26:26,616 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:26:26,616 - DEBUG - 📸 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-09-07 22:26:26,617 - DEBUG - 📁 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-09-07 22:26:26,617 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:26:26,621 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 9 - Requests: 1
+2025-09-07 22:26:29,175 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_posts en disco
+2025-09-07 22:26:29,179 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=production)
+2025-09-07 22:26:29,180 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_detailed_posts() para sergiamen97
+2025-09-07 22:26:29,180 - DEBUG - [Instagram] Post 1/3 shortcode=DNqDNg_I1NU -> solicitando detalles
+2025-09-07 22:26:29,184 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 8 - Requests: 2
+2025-09-07 22:26:30,867 - DEBUG - [Instagram] 📥 Post 1/3 detallado correctamente
+2025-09-07 22:26:30,868 - DEBUG - [Instagram] Post 2/3 shortcode=DNYqnYdoGS9 -> solicitando detalles
+2025-09-07 22:26:30,870 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 7 - Requests: 3
+2025-09-07 22:26:32,695 - DEBUG - [Instagram] 📥 Post 2/3 detallado correctamente
+2025-09-07 22:26:32,696 - DEBUG - [Instagram] Post 3/3 shortcode=DLnbVPSADMo -> solicitando detalles
+2025-09-07 22:26:32,700 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 9 - Requests: 1
+2025-09-07 22:26:34,667 - DEBUG - [Instagram] 📥 Post 3/3 detallado correctamente
+2025-09-07 22:26:34,668 - DEBUG - [Instagram][PRODUCTION] ❌ No se guardan detalles en disco
+2025-09-07 22:26:34,673 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 22:26:34,678 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:26:34,678 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-07 22:26:34,679 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:26:34,679 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-07 22:26:34,680 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:27:26,018 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:27:26,019 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 22:27:26,020 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_info() para sergiamen97
+2025-09-07 22:27:26,020 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:27:26,020 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:27:26,024 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 8 - Requests: 2
+2025-09-07 22:27:31,389 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 22:27:31,392 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:27:31,392 - DEBUG - 📸 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-09-07 22:27:31,392 - DEBUG - 📁 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-09-07 22:27:31,392 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:27:31,394 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 7 - Requests: 3
+2025-09-07 22:27:33,388 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_posts en disco
+2025-09-07 22:27:33,393 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=production)
+2025-09-07 22:27:33,394 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_detailed_posts() para sergiamen97
+2025-09-07 22:27:33,394 - DEBUG - [Instagram] Post 1/3 shortcode=DNqDNg_I1NU -> solicitando detalles
+2025-09-07 22:27:33,398 - DEBUG - Usando cuenta: xemayme - Saldo restante: 9 - Requests: 1
+2025-09-07 22:27:35,645 - DEBUG - [Instagram] 📥 Post 1/3 detallado correctamente
+2025-09-07 22:27:35,645 - DEBUG - [Instagram] Post 2/3 shortcode=DNYqnYdoGS9 -> solicitando detalles
+2025-09-07 22:27:35,649 - DEBUG - Usando cuenta: xemayme - Saldo restante: 8 - Requests: 2
+2025-09-07 22:27:37,525 - DEBUG - [Instagram] 📥 Post 2/3 detallado correctamente
+2025-09-07 22:27:37,526 - DEBUG - [Instagram] Post 3/3 shortcode=DLnbVPSADMo -> solicitando detalles
+2025-09-07 22:27:37,530 - DEBUG - Usando cuenta: xemayme - Saldo restante: 7 - Requests: 3
+2025-09-07 22:27:39,691 - DEBUG - [Instagram] 📥 Post 3/3 detallado correctamente
+2025-09-07 22:27:39,692 - DEBUG - [Instagram][PRODUCTION] ❌ No se guardan detalles en disco
+2025-09-07 22:27:39,697 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 22:27:39,697 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:27:39,698 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-07 22:27:39,698 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:27:39,699 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-07 22:27:39,699 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:27:39,700 - DEBUG - [find_sensitive] Analizando texto: Enrique & Cristina 💍🤍...
+2025-09-07 22:27:39,700 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:27:39,700 - DEBUG - [Instagram][PROD] 🚫 Saltamos análisis de comentarios (solo bio y captions)
+2025-09-07 22:27:43,951 - DEBUG - [InstagramAnalysis] username=sergiamen97, num_posts=3, mode=production
+2025-09-07 22:27:43,955 - DEBUG - 📥 extract_posts activado
+2025-09-07 22:27:43,961 - DEBUG - [InstagramAnalysis] username=sergiamen97, num_posts=3, mode=production
+2025-09-07 22:27:43,967 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:27:43,971 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:27:43,976 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 22:27:44,005 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-07 22:30:40,730 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:30:40,732 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 22:30:40,733 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_info() para sergiamen97
+2025-09-07 22:30:40,734 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:30:40,734 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:30:40,737 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 6 - Requests: 1
+2025-09-07 22:30:46,742 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 22:30:46,746 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:30:46,747 - DEBUG - 📸 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-09-07 22:30:46,747 - DEBUG - 📁 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-09-07 22:30:46,747 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:30:46,751 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 5 - Requests: 2
+2025-09-07 22:30:48,905 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_posts en disco
+2025-09-07 22:30:48,908 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=production)
+2025-09-07 22:30:48,908 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_detailed_posts() para sergiamen97
+2025-09-07 22:30:48,908 - DEBUG - [Instagram] Post 1/3 shortcode=DNqDNg_I1NU -> solicitando detalles
+2025-09-07 22:30:48,910 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 4 - Requests: 3
+2025-09-07 22:30:50,740 - DEBUG - [Instagram] 📥 Post 1/3 detallado correctamente
+2025-09-07 22:30:50,740 - DEBUG - [Instagram] Post 2/3 shortcode=DNYqnYdoGS9 -> solicitando detalles
+2025-09-07 22:30:50,742 - DEBUG - Usando cuenta: xemayme - Saldo restante: 6 - Requests: 1
+2025-09-07 22:30:52,855 - DEBUG - [Instagram] 📥 Post 2/3 detallado correctamente
+2025-09-07 22:30:52,856 - DEBUG - [Instagram] Post 3/3 shortcode=DLnbVPSADMo -> solicitando detalles
+2025-09-07 22:30:52,860 - DEBUG - Usando cuenta: xemayme - Saldo restante: 5 - Requests: 2
+2025-09-07 22:30:54,839 - DEBUG - [Instagram] 📥 Post 3/3 detallado correctamente
+2025-09-07 22:30:54,839 - DEBUG - [Instagram][PRODUCTION] ❌ No se guardan detalles en disco
+2025-09-07 22:30:54,845 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 22:30:54,849 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:30:54,850 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-07 22:30:54,850 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:30:54,850 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-07 22:30:54,851 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:30:54,851 - DEBUG - [find_sensitive] Analizando texto: Enrique & Cristina 💍🤍...
+2025-09-07 22:30:54,852 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:30:54,852 - DEBUG - [Instagram][PROD] 🚫 Saltamos análisis de comentarios (solo bio y captions)
+2025-09-07 22:30:58,686 - DEBUG - [InstagramAnalysis] username=sergiamen97, num_posts=3, mode=production
+2025-09-07 22:30:58,686 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:30:58,689 - DEBUG - 📥 extract_posts activado
+2025-09-07 22:30:58,690 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:30:58,693 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 22:30:58,698 - DEBUG - [InstagramAnalysis] username=sergiamen97, num_posts=3, mode=production
+2025-09-07 22:30:58,698 - DEBUG - Usando cuenta: xemayme - Saldo restante: 4 - Requests: 3
+2025-09-07 22:30:58,705 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:30:58,726 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:30:58,726 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-07 22:30:58,738 - ERROR - [InstagramAnalysis][PRODUCTION] ❌ Error: 🚫 No hay cuentas disponibles para hacer solicitudes.
+2025-09-07 22:31:04,822 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 22:31:04,823 - DEBUG - 📸 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-09-07 22:31:04,823 - DEBUG - 📁 Carpeta destino: None
+2025-09-07 22:31:04,823 - ERROR - [InstagramAnalysis][PRODUCTION] ❌ Error: expected str, bytes or os.PathLike object, not NoneType
+2025-09-07 22:33:09,535 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:33:09,537 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 22:33:09,538 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_info() para sergiamen97
+2025-09-07 22:33:09,538 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:33:09,538 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:33:09,540 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 3 - Requests: 1
+2025-09-07 22:33:13,106 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 22:33:13,111 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:33:13,112 - DEBUG - 📸 Extrayendo 3 fotos para usuario sergiamen97 (user_id: 564181243)
+2025-09-07 22:33:13,113 - DEBUG - 📁 Carpeta destino: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3
+2025-09-07 22:33:13,113 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_posts() para sergiamen97
+2025-09-07 22:33:13,117 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 2 - Requests: 2
+2025-09-07 22:33:15,589 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_posts en disco
+2025-09-07 22:33:15,590 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=production)
+2025-09-07 22:33:15,590 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_detailed_posts() para sergiamen97
+2025-09-07 22:33:15,590 - DEBUG - [Instagram] Post 1/3 shortcode=DNqDNg_I1NU -> solicitando detalles
+2025-09-07 22:33:15,592 - DEBUG - Usando cuenta: TFM5 - Saldo restante: 1 - Requests: 3
+2025-09-07 22:33:17,440 - DEBUG - [Instagram] 📥 Post 1/3 detallado correctamente
+2025-09-07 22:33:17,441 - DEBUG - [Instagram] Post 2/3 shortcode=DNYqnYdoGS9 -> solicitando detalles
+2025-09-07 22:33:17,445 - DEBUG - Usando cuenta: xemayme - Saldo restante: 3 - Requests: 1
+2025-09-07 22:33:19,695 - DEBUG - [Instagram] 📥 Post 2/3 detallado correctamente
+2025-09-07 22:33:19,695 - DEBUG - [Instagram] Post 3/3 shortcode=DLnbVPSADMo -> solicitando detalles
+2025-09-07 22:33:19,697 - DEBUG - Usando cuenta: xemayme - Saldo restante: 2 - Requests: 2
+2025-09-07 22:33:21,220 - DEBUG - [Instagram] 📥 Post 3/3 detallado correctamente
+2025-09-07 22:33:21,220 - DEBUG - [Instagram][PRODUCTION] ❌ No se guardan detalles en disco
+2025-09-07 22:33:21,224 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 22:33:21,228 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:33:21,228 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-07 22:33:21,228 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:33:21,229 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-07 22:33:21,229 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:34:11,646 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:34:11,648 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 22:34:11,649 - DEBUG - [Instagram][DEV] Leyendo user_info desde cache: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 22:34:11,661 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=development)
+2025-09-07 22:34:11,661 - DEBUG - [Instagram][DEV] 📂 Leyendo full_information desde cache: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json
+2025-09-07 22:34:11,668 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 22:34:11,668 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:34:11,668 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-07 22:34:11,669 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:34:11,669 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-07 22:34:11,669 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:34:11,669 - DEBUG - [find_sensitive] Analizando texto: Enrique & Cristina 💍🤍...
+2025-09-07 22:34:11,669 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 22:34:14,770 - DEBUG - Probando numero_fotos:3
+2025-09-07 22:34:14,774 - DEBUG - 📥 extract_posts activado
+2025-09-07 22:34:14,781 - DEBUG - Probando numero_fotos:3
+2025-09-07 22:34:14,798 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 22:34:14,842 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-07 22:40:15,731 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 22:40:15,732 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 22:40:15,733 - DEBUG - [Instagram][PRODUCTION] Forzando API get_user_info() para sergiamen97
+2025-09-07 22:40:15,734 - DEBUG - 🔍 Buscando info del usuario: sergiamen97
+2025-09-07 22:40:15,734 - DEBUG - [Instagram][PRODUCTION] 🚀 Forzando API get_user_info() para sergiamen97
+2025-09-07 22:40:15,759 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 9 - Requests: 1
+2025-09-07 22:40:16,778 - DEBUG - [Instagram][PRODUCTION] ❌ No se guarda user_info en disco
+2025-09-07 23:41:23,962 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-07 23:41:23,963 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-07 23:41:23,964 - DEBUG - [Instagram][DEV] Leyendo user_info desde cache: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-07 23:41:23,969 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=development)
+2025-09-07 23:41:23,970 - DEBUG - [Instagram][DEV] 📂 Leyendo full_information desde cache: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json
+2025-09-07 23:41:23,973 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-07 23:41:23,973 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:23,973 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-07 23:41:23,974 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:23,974 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-07 23:41:23,974 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-07 23:41:23,974 - DEBUG - [find_sensitive] Analizando texto: Enrique & Cristina 💍🤍...
+2025-09-07 23:41:23,974 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,405 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-08 08:48:30,415 - DEBUG - [Instagram] Iniciando búsqueda para usuario=sergiamen97
+2025-09-08 08:48:30,419 - DEBUG - [Instagram][DEV] Leyendo user_info desde cache: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-08 08:48:30,449 - DEBUG - 💾 Entrando en get_detailed_posts (usuario=sergiamen97, n_fotos=3, modo=development)
+2025-09-08 08:48:30,450 - DEBUG - [Instagram][DEV] 📂 Leyendo full_information desde cache: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\full_information_3_posts.json
+2025-09-08 08:48:30,468 - DEBUG - [find_sensitive] Analizando texto: 🌍 - Madrid -  🌍
+|🎓 CAFyD & Máster en Gestión Deportiva 🎓|
+@entrenaconsergiamen_ ...
+2025-09-08 08:48:30,468 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,469 - DEBUG - [find_sensitive] Analizando texto: el sur no me sienta nada mal 😎🤙🏼...
+2025-09-08 08:48:30,469 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,469 - DEBUG - [find_sensitive] Analizando texto: recap de unos días de desconexión en mi segunda casa 🤍🌅😌...
+2025-09-08 08:48:30,469 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:30,469 - DEBUG - [find_sensitive] Analizando texto: Enrique & Cristina 💍🤍...
+2025-09-08 08:48:30,469 - DEBUG - [find_sensitive] Coincidencias -> DNI=0, IBAN=0, CCC=0, Phones=0
+2025-09-08 08:48:36,574 - DEBUG - Probando numero_fotos:3
+2025-09-08 08:48:36,576 - DEBUG - 📥 extract_posts activado
+2025-09-08 08:48:36,579 - DEBUG - Probando numero_fotos:3
+2025-09-08 08:48:36,582 - DEBUG - 📂 user_info.json encontrado en: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\user_info.json
+2025-09-08 08:48:36,602 - DEBUG - ✅ user_posts.json ya existe y no se reejecuta: C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\sergiamen97\3\user_posts.json
+2025-09-08 14:58:14,493 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2025-09-08 14:58:14,538 - DEBUG - [Instagram] Iniciando búsqueda para usuario=Segiamen97
+2025-09-08 14:58:14,545 - DEBUG - [Instagram][DEVELOPMENT] Forzando API get_user_info() para Segiamen97
+2025-09-08 14:58:14,556 - DEBUG - 🔍 Buscando info del usuario: Segiamen97
+2025-09-08 14:58:14,580 - DEBUG - [Instagram][DEVELOPMENT] 🚀 Forzando API get_user_info() para Segiamen97
+2025-09-08 14:58:14,649 - DEBUG - Usando cuenta: TFM6 - Saldo restante: 8 - Requests: 1
+2025-09-08 14:58:16,503 - DEBUG - 💾 user_info guardado en C:\Users\jm_ay\Documents\0-TFM_Programacion\Proyecto_TFM\Gestion_Identidad\Instagram\busquedas\Segiamen97\user_info.json
+2025-09-08 14:58:41,601 - DEBUG - ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
